@@ -81,6 +81,7 @@ p {
 a{
   color:black;
   text-decoration:underline;
+  transition: all 0.3s;
   }
   a:visited{
             color:black;
@@ -270,8 +271,11 @@ background-size:cover;
 background-repeat:no-repeat;
 background-position:center;
 }
-.featured_bird a{
+.featured_link{
 text-decoration:none;
+}
+.featured_link:hover{
+color:dimgray;
 }
 .bod_link{
 text-decoration:none;
