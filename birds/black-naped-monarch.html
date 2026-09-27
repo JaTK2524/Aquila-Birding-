@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Black-naped Monarch | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "black-naped-oriole.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "black-hooded-oriole.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/Black-NapedMonarch1.jpg" alt="Black-naped Monarch" loading = "lazy">
+
+<h2 class = "bird_site_headings">Black-naped Monarch</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Hypothymis azurea</li>
+                <li><span class="fact-label">Family:</span> Monarchidae</li>
+                <li><span class="fact-label">Size:</span> 15-17 cm</li>
+                <li><span class="fact-label">Weight:</span> About 8-12 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 20-25 cm</li>
+                <li><span class="fact-label">Diet:</span> Insects and other small arthropods</li>
+                <li><span class="fact-label">Habitat:</span> Forests, woodland, plantations, gardens and forest edges</li>
+                <li><span class="fact-label">Behaviour:</span> Actively sallies from perches to catch insects and frequently flicks its tail</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A small cup-shaped nest attached to a branch or fork, often held together with spider web</li>
+                <li><span class="fact-label">Breeding Season:</span> Generally spring and summer, varying by region</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2-3 eggs</li>
+                <li><span class="fact-label">Call:</span> Clear high-pitched whistles and short calls</li>
+                <li><span class="fact-label">Lifespan:</span> Often lives for several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> India: most wooded regions including Kerala, Karnataka, Tamil Nadu, Maharashtra, Odisha, West Bengal and northeastern states; Sri Lanka; Bangladesh; Nepal; Bhutan; Myanmar; Thailand; Malaysia; Indonesia and the Philippines</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Black-naped Monarch is a small and elegant Asian flycatcher. Males are bright blue with a distinctive black patch across the nape and black throat, while females are generally duller. It is an active insect hunter that often makes short aerial sallies from perches in forest vegetation.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

@@ -3594,6 +3594,917 @@ birds = [
         "where_to_find": "Australia: eastern coast and ranges from Queensland through New South Wales and Victoria to southeastern South Australia"
     }
 },
+{
+    "name": "Blue Jay",
+    "scientific": "Cyanocitta cristata",
+    "description": "The Blue Jay is a striking North American corvid with bright blue, black and white plumage, a prominent crest and a long tail. It is an intelligent and adaptable bird found in forests, woodland edges, parks and suburban areas. Blue Jays are especially associated with acorns and other nuts, which they often carry away and cache for later use. They are social birds and have a wide variety of calls.",
+    "image": "BlueJay1.jpg",
+    "quick_facts": {
+        "family": "Corvidae",
+        "size": "25-30 cm",
+        "weight": "About 70-100 g",
+        "wingspan": "About 34-43 cm",
+        "diet": "Acorns, nuts, seeds, fruit, insects and small animals",
+        "habitat": "Deciduous and mixed forests, woodland edges, parks, gardens and suburbs",
+        "behaviour": "Intelligent and social; often carries and stores food for later use",
+        "activity": "Diurnal",
+        "nesting": "An open cup of twigs, roots, grass and other plant material placed in a tree or shrub",
+        "breeding_season": "April to July",
+        "clutch_size": "Usually 3-7 eggs",
+        "call": "Loud jay calls, harsh jeers, whistles and other varied vocalisations",
+        "lifespan": "Often 7-10 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: southern and central provinces; United States: most eastern, central and northern states; Mexico: northern and eastern regions"
+    }
+},
+
+{
+    "name": "Northern Cardinal",
+    "scientific": "Cardinalis cardinalis",
+    "description": "The Northern Cardinal is a familiar North American songbird with a prominent crest and strong red-orange bill. Adult males are brilliant red with a black face, while females are mostly warm brown with reddish highlights. Cardinals are common around woodland edges, gardens and suburban areas and are often seen feeding on seeds on or near the ground.",
+    "image": "NorthernCardinal1.jpg",
+    "quick_facts": {
+        "family": "Cardinalidae",
+        "size": "21-23 cm",
+        "weight": "About 33-65 g",
+        "wingspan": "About 25-31 cm",
+        "diet": "Seeds, grains, berries, fruit and insects",
+        "habitat": "Woodland edges, thickets, gardens, parks and suburbs",
+        "behaviour": "Usually forages on the ground or in low vegetation and often occurs in pairs",
+        "activity": "Diurnal",
+        "nesting": "An open cup of twigs, bark, grass and plant fibres placed in dense shrubs or low trees",
+        "breeding_season": "March to September",
+        "clutch_size": "Usually 2-5 eggs",
+        "call": "Clear whistles and sharp metallic chip calls",
+        "lifespan": "Often lives 10 years or more in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: southern provinces; United States: eastern, central and parts of southwestern states; Mexico: northern and eastern regions"
+    }
+},
+
+{
+    "name": "American Robin",
+    "scientific": "Turdus migratorius",
+    "description": "The American Robin is a familiar North American thrush with a grey-brown back, orange-red breast and yellowish bill. It is particularly well known for running across lawns and open ground while searching for earthworms. It also eats large quantities of berries and fruit and can be found in forests, gardens, parks and suburban neighbourhoods.",
+    "image": "AmericanRobin1.jpg",
+    "quick_facts": {
+        "family": "Turdidae",
+        "size": "23-28 cm",
+        "weight": "About 77-85 g",
+        "wingspan": "About 31-41 cm",
+        "diet": "Earthworms, insects, berries and other fruit",
+        "habitat": "Woodlands, parks, lawns, gardens and urban areas",
+        "behaviour": "Runs across open ground while searching for prey and often forages in flocks outside the breeding season",
+        "activity": "Diurnal",
+        "nesting": "A cup-shaped nest made from grass, twigs and mud, usually placed in a tree or shrub",
+        "breeding_season": "April to August",
+        "clutch_size": "Usually 3-5 eggs",
+        "call": "Clear musical phrases and sharp alarm calls",
+        "lifespan": "Often 2-6 years, with much longer lifespans recorded",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: most provinces and territories; United States: most states; Mexico: northern and mountainous regions"
+    }
+},
+
+{
+    "name": "American Goldfinch",
+    "scientific": "Spinus tristis",
+    "description": "The American Goldfinch is a small North American finch whose breeding male has brilliant yellow plumage, black wings and a black forehead. Females and winter birds are much duller. It is strongly associated with seed-producing plants, especially thistles, and is often seen hanging acrobatically from seedheads.",
+    "image": "AmericanGoldfinch1.jpg",
+    "quick_facts": {
+        "family": "Fringillidae",
+        "size": "11-13 cm",
+        "weight": "About 11-20 g",
+        "wingspan": "About 19-22 cm",
+        "diet": "Seeds, especially those of thistles and sunflowers, plus some insects",
+        "habitat": "Fields, meadows, woodland edges, gardens and roadsides",
+        "behaviour": "Often feeds acrobatically while clinging to seedheads",
+        "activity": "Diurnal",
+        "nesting": "A small cup of plant fibres and down, usually placed in a shrub or low tree",
+        "breeding_season": "June to August",
+        "clutch_size": "Usually 4-6 eggs",
+        "call": "Bright twittering calls and a distinctive flight call",
+        "lifespan": "Up to about 11 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: southern provinces; United States: most states; Mexico: mainly northern and central regions"
+    }
+},
+
+{
+    "name": "Baltimore Oriole",
+    "scientific": "Icterus galbula",
+    "description": "The Baltimore Oriole is a colourful North American blackbird. Adult males have bright orange underparts with black upperparts and wings, while females are generally more yellow-orange and brown. It spends much of its time in mature trees, searching among leaves for insects and feeding on fruit and nectar.",
+    "image": "BaltimoreOriole1.jpg",
+    "quick_facts": {
+        "family": "Icteridae",
+        "size": "17-19 cm",
+        "weight": "About 30-40 g",
+        "wingspan": "About 23-30 cm",
+        "diet": "Insects, caterpillars, fruit and nectar",
+        "habitat": "Mature woodland, forest edges, parks and gardens",
+        "behaviour": "Agile canopy forager that can hang upside down while searching for food",
+        "activity": "Diurnal",
+        "nesting": "A deep hanging pouch woven from plant fibres and suspended from a tree branch",
+        "breeding_season": "April to August",
+        "clutch_size": "Usually 3-7 eggs",
+        "call": "Rich whistled song and sharp chattering calls",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: southern provinces; United States: eastern and central states; Mexico and Central America during winter"
+    }
+},
+
+{
+    "name": "Scarlet Tanager",
+    "scientific": "Piranga olivacea",
+    "description": "The Scarlet Tanager is a striking North American songbird. Breeding males are brilliant scarlet with black wings and tail, while females are yellow-green. The species spends much of its time high in mature forest canopies, where it searches for insects and fruit.",
+    "image": "ScarletTanager1.jpg",
+    "quick_facts": {
+        "family": "Cardinalidae",
+        "size": "16-17 cm",
+        "weight": "About 23-38 g",
+        "wingspan": "About 25-29 cm",
+        "diet": "Insects, spiders, berries and other fruit",
+        "habitat": "Mature deciduous and mixed forests",
+        "behaviour": "Usually forages in the canopy and catches insects from foliage",
+        "activity": "Diurnal",
+        "nesting": "A loose open cup of twigs and grass placed on a horizontal branch",
+        "breeding_season": "May to July",
+        "clutch_size": "Usually 3-5 eggs",
+        "call": "A rich robin-like song and a distinctive harsh call",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: southern Ontario, Quebec and Atlantic provinces; United States: eastern and northern states; winters mainly in northern and western South America"
+    }
+},
+
+{
+    "name": "Cedar Waxwing",
+    "scientific": "Bombycilla cedrorum",
+    "description": "The Cedar Waxwing is a sleek North American songbird with silky brown and grey plumage, a black facial mask, a yellow-tipped tail and small red wax-like tips on some wing feathers. It is highly social and often travels in flocks while searching for berries and fruit.",
+    "image": "CedarWaxwing1.jpg",
+    "quick_facts": {
+        "family": "Bombycillidae",
+        "size": "14-17 cm",
+        "weight": "About 32 g",
+        "wingspan": "About 22-30 cm",
+        "diet": "Berries, fruit and insects",
+        "habitat": "Woodlands, orchards, farms, parks and gardens",
+        "behaviour": "Highly social and often feeds in large flocks; may pass berries between individuals",
+        "activity": "Diurnal",
+        "nesting": "A loose cup of twigs, grass and plant fibres placed in a tree or shrub",
+        "breeding_season": "June to August",
+        "clutch_size": "Usually 2-6 eggs",
+        "call": "High, thin and lisping whistles",
+        "lifespan": "Up to about 8 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: southern and central provinces; United States: most states; Mexico and Central America during winter"
+    }
+},
+
+{
+    "name": "Rose-breasted Grosbeak",
+    "scientific": "Pheucticus ludovicianus",
+    "description": "The Rose-breasted Grosbeak is a handsome North American songbird. Breeding males have a black head, white underparts and a vivid rose-red breast patch, while females and immature birds are brown and heavily streaked. Its large conical bill is well suited to cracking seeds.",
+    "image": "Rose-BreastedGrosbeak1.jpg",
+    "quick_facts": {
+        "family": "Cardinalidae",
+        "size": "18-22 cm",
+        "weight": "About 39-49 g",
+        "wingspan": "About 29-33 cm",
+        "diet": "Seeds, insects, berries and fruit",
+        "habitat": "Deciduous forests, woodland edges and shrubby areas",
+        "behaviour": "Forages in foliage and on the ground; males sing conspicuously during breeding",
+        "activity": "Diurnal",
+        "nesting": "A loose open cup of twigs and plant material placed in a shrub or low tree",
+        "breeding_season": "May to July",
+        "clutch_size": "Usually 3-5 eggs",
+        "call": "Rich robin-like song and sharp chink calls",
+        "lifespan": "Up to about 13 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: southern and central provinces; United States: northern and eastern states; winters mainly in Mexico, Central America and the Caribbean"
+    }
+},
+
+{
+    "name": "Red-winged Blackbird",
+    "scientific": "Agelaius phoeniceus",
+    "description": "The Red-winged Blackbird is a widespread North American blackbird. Males are glossy black with vivid red and yellow shoulder patches, while females are streaked brown. Males defend territories aggressively during the breeding season and display their colourful shoulder patches during disputes.",
+    "image": "Red-WingedBlackbird1.jpg",
+    "quick_facts": {
+        "family": "Icteridae",
+        "size": "17-23 cm",
+        "weight": "About 42-85 g",
+        "wingspan": "About 31-40 cm",
+        "diet": "Seeds, grains, insects and other invertebrates",
+        "habitat": "Marshes, wetlands, wet meadows, grasslands and agricultural areas",
+        "behaviour": "Males are strongly territorial during breeding and gather in large flocks outside the breeding season",
+        "activity": "Diurnal",
+        "nesting": "A cup-shaped nest woven from grasses and reeds, usually attached to vegetation",
+        "breeding_season": "March to August",
+        "clutch_size": "Usually 2-4 eggs",
+        "call": "Distinctive nasal 'konk-a-ree' song",
+        "lifespan": "Up to about 15 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Canada: most provinces; United States: most states; Mexico: northern and central regions"
+    }
+},
+
+{
+    "name": "Brown Pelican",
+    "scientific": "Pelecanus occidentalis",
+    "description": "The Brown Pelican is a large coastal pelican with a long bill and an enormous expandable throat pouch. It is famous for plunge-diving from the air to catch fish, sometimes dropping from considerable height before entering the water. It is commonly seen along coasts, bays and estuaries.",
+    "image": "BrownPelican1.jpg",
+    "quick_facts": {
+        "family": "Pelecanidae",
+        "size": "106-137 cm",
+        "weight": "About 2.7-5.9 kg",
+        "wingspan": "About 183-228 cm",
+        "diet": "Mainly fish, with some crustaceans and other aquatic prey",
+        "habitat": "Coasts, bays, estuaries, mangroves and coastal islands",
+        "behaviour": "Often glides in groups and plunge-dives into water to catch fish",
+        "activity": "Diurnal",
+        "nesting": "Colonial nests made from sticks and vegetation, usually in trees, bushes or on islands",
+        "breeding_season": "Varies geographically",
+        "clutch_size": "Usually 2-4 eggs",
+        "call": "Adults are generally quiet; young produce begging calls",
+        "lifespan": "Can live for more than 30 years",
+        "conservation_status": "Least Concern",
+        "where_to_find": "United States: Atlantic, Gulf and Pacific coastal states; Mexico: Pacific and Gulf coasts; Central America, northern South America and Caribbean islands"
+    }
+},
+
+{
+    "name": "Superb Lyrebird",
+    "scientific": "Menura novaehollandiae",
+    "description": "The Superb Lyrebird is a large Australian ground-dwelling bird famous for the elaborate lyre-shaped tail of the adult male and its extraordinary ability to mimic natural and mechanical sounds. It lives mainly in moist forests and rainforests, where it scratches through leaf litter while searching for food.",
+    "image": "SuperbLyrebird1.jpg",
+    "quick_facts": {
+        "family": "Menuridae",
+        "size": "74-100 cm",
+        "weight": "About 700-1,200 g",
+        "wingspan": "About 75-90 cm",
+        "diet": "Insects, spiders, worms and other small invertebrates",
+        "habitat": "Moist forests, rainforests and dense woodland",
+        "behaviour": "Males perform elaborate displays and both sexes scratch through leaf litter while feeding",
+        "activity": "Diurnal",
+        "nesting": "A large domed nest built by the female, usually close to the ground or on a bank",
+        "breeding_season": "May to August",
+        "clutch_size": "Usually 1 egg",
+        "call": "Remarkable mimicry of birds, mammals and mechanical sounds, along with whistles and alarm calls",
+        "lifespan": "Often lives for more than 15 years",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: New South Wales, Victoria and southeastern Queensland"
+    }
+},
+
+{
+    "name": "Eastern Spinebill",
+    "scientific": "Acanthorhynchus tenuirostris",
+    "description": "The Eastern Spinebill is a small Australian honeyeater with a very long, slender, down-curved bill. It is an energetic nectar feeder that often hovers around flowering plants. It also catches insects and can be found in forests, heathlands, woodlands and gardens.",
+    "image": "EasternSpinebill1.jpg",
+    "quick_facts": {
+        "family": "Meliphagidae",
+        "size": "15-19 cm",
+        "weight": "About 10-17 g",
+        "wingspan": "About 18-22 cm",
+        "diet": "Nectar, insects and other small invertebrates",
+        "habitat": "Heathland, woodland, forest and flowering gardens",
+        "behaviour": "Often hovers at flowers while using its long bill to obtain nectar",
+        "activity": "Diurnal",
+        "nesting": "A small cup of twigs, grass, bark and spider web placed in a tree or shrub",
+        "breeding_season": "August to January",
+        "clutch_size": "Usually 2 eggs",
+        "call": "Short high-pitched piping notes and other soft calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: Queensland, New South Wales, Victoria, South Australia, Tasmania and Australian Capital Territory"
+    }
+},
+
+{
+    "name": "Crimson Rosella",
+    "scientific": "Platycercus elegans",
+    "description": "The Crimson Rosella is a colourful eastern Australian parrot with brilliant crimson plumage, blue patches on the cheeks and wings, and a long blue tail in the typical form. Several geographical colour forms occur across its range. It feeds on seeds, fruit and flowers and can occur in forests as well as well-treed urban areas.",
+    "image": "CrimsonRosella1.jpg",
+    "quick_facts": {
+        "family": "Psittaculidae",
+        "size": "32-36 cm",
+        "weight": "About 90-170 g",
+        "wingspan": "About 50-55 cm",
+        "diet": "Seeds, fruit, flowers, nectar and insects",
+        "habitat": "Forests, woodlands, riverine woodland, farmland and urban areas",
+        "behaviour": "Usually feeds in trees or on the ground and may occur singly, in pairs or in small groups",
+        "activity": "Diurnal",
+        "nesting": "A tree hollow containing decayed wood material",
+        "breeding_season": "September to January",
+        "clutch_size": "Usually 3-8 eggs",
+        "call": "Loud whistles and harsh chattering calls",
+        "lifespan": "Often lives for 10-15 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: Queensland, New South Wales, Victoria, South Australia, Western Australia and Australian Capital Territory"
+    }
+},
+
+{
+    "name": "Red Wattlebird",
+    "scientific": "Anthochaera carunculata",
+    "description": "The Red Wattlebird is a large Australian honeyeater with grey-brown plumage, a yellow belly, red facial wattles and a long tail. It is an active nectar feeder and can become very noisy and territorial around flowering trees. It also eats insects and fruit.",
+    "image": "RedWattlebird1.jpg",
+    "quick_facts": {
+        "family": "Meliphagidae",
+        "size": "33-37 cm",
+        "weight": "About 110-150 g",
+        "wingspan": "About 45-50 cm",
+        "diet": "Nectar, insects, fruit and other plant material",
+        "habitat": "Woodland, forest, coastal scrub, parks and gardens",
+        "behaviour": "Active and noisy; often chases other birds away from flowering trees",
+        "activity": "Diurnal",
+        "nesting": "A cup-shaped nest made from twigs, grass and other vegetation, usually placed in a tree or shrub",
+        "breeding_season": "July to December",
+        "clutch_size": "Usually 2-3 eggs",
+        "call": "Loud harsh and nasal calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: Queensland, New South Wales, Victoria, South Australia, Western Australia and Tasmania"
+    }
+},
+
+{
+    "name": "Australian Raven",
+    "scientific": "Corvus coronoides",
+    "description": "The Australian Raven is a large Australian corvid with almost entirely black plumage that can show a glossy sheen in good light. Adults have pale or white irises, shaggy throat feathers and a relatively long tail. It is highly adaptable and can be found in woodland, open country, farmland and urban areas.",
+    "image": "AustralianRaven1.jpg",
+    "quick_facts": {
+        "family": "Corvidae",
+        "size": "46-53 cm",
+        "weight": "About 650-1,000 g",
+        "wingspan": "About 90-100 cm",
+        "diet": "Carrion, insects, small animals, seeds, fruit and human-associated food",
+        "habitat": "Woodland, open country, farmland, parks and urban areas",
+        "behaviour": "Intelligent and adaptable; often forages on the ground and occurs in pairs or small groups",
+        "activity": "Diurnal",
+        "nesting": "A large stick nest usually placed high in a tree",
+        "breeding_season": "July to December",
+        "clutch_size": "Usually 3-6 eggs",
+        "call": "Deep, resonant calls often described as a drawn-out 'ah-ah-ah'",
+        "lifespan": "Can live for more than 20 years",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: Western Australia, South Australia, Victoria, New South Wales and southern Queensland"
+    }
+},
+
+{
+    "name": "Pied Oystercatcher",
+    "scientific": "Haematopus longirostris",
+    "description": "The Pied Oystercatcher is a large Australian shorebird with black upperparts, white underparts, a long orange-red bill and pinkish-red legs. It forages along sandy and muddy shores, using its powerful bill to open shellfish and probe for other invertebrates.",
+    "image": "PiedOystercatcher1.jpg",
+    "quick_facts": {
+        "family": "Haematopodidae",
+        "size": "About 50 cm",
+        "weight": "About 500-800 g",
+        "wingspan": "About 80-90 cm",
+        "diet": "Molluscs, worms, crustaceans and other intertidal invertebrates",
+        "habitat": "Sandy beaches, mudflats, estuaries and coastal islands",
+        "behaviour": "Uses its powerful bill to prise open or hammer shellfish",
+        "activity": "Diurnal, with some feeding at night depending on tides",
+        "nesting": "A simple scrape on sand, shell or gravel above the high-tide line",
+        "breeding_season": "Winter to spring",
+        "clutch_size": "Usually 2-3 eggs",
+        "call": "Loud piping and whistling calls",
+        "lifespan": "Can live for more than 20 years",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: Queensland, New South Wales, Victoria, Tasmania, South Australia, Western Australia and Northern Territory"
+    }
+},
+
+{
+    "name": "Silver Gull",
+    "scientific": "Chroicocephalus novaehollandiae",
+    "description": "The Silver Gull is a common Australian gull with a white body, pale grey wings, black wing tips and a red bill. It is highly adaptable and occurs around beaches, estuaries, harbours, lakes and cities. Its ability to exploit food around humans has made it one of Australia's most familiar gulls.",
+    "image": "SilverGull1.jpg",
+    "quick_facts": {
+        "family": "Laridae",
+        "size": "40-45 cm",
+        "weight": "About 270-315 g",
+        "wingspan": "About 94-110 cm",
+        "diet": "Fish, marine invertebrates, insects, carrion and human-associated food",
+        "habitat": "Coasts, beaches, estuaries, harbours, rivers, lakes and urban areas",
+        "behaviour": "Highly adaptable and often gathers in large flocks",
+        "activity": "Diurnal",
+        "nesting": "A shallow nest made from vegetation, usually on islands, cliffs or sheltered ground",
+        "breeding_season": "August to November",
+        "clutch_size": "Usually 1-3 eggs",
+        "call": "Loud gull-like cries and yelps",
+        "lifespan": "Often lives for more than 10 years",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: all states and territories; Tasmania; New Zealand and surrounding islands"
+    }
+},
+
+{
+    "name": "Australian Ibis",
+    "scientific": "Threskiornis molucca",
+    "description": "The Australian Ibis, also known as the Australian White Ibis, is a large long-legged ibis with a mostly white body, black head and neck, and a long curved bill. It occurs naturally in wetlands, floodplains and grasslands but is also highly successful in parks and urban areas where it searches for food.",
+    "image": "AustralianIbis1.jpg",
+    "quick_facts": {
+        "family": "Threskiornithidae",
+        "size": "65-75 cm",
+        "weight": "About 1.4-1.9 kg",
+        "wingspan": "About 110-125 cm",
+        "diet": "Insects, worms, crustaceans, frogs, fish, seeds and other food found in soil or shallow water",
+        "habitat": "Wetlands, grasslands, floodplains, farmland, parks and urban areas",
+        "behaviour": "Probes soil and soft mud with its long bill and is highly adaptable around people",
+        "activity": "Diurnal",
+        "nesting": "A stick and vegetation nest usually built in trees or wetland vegetation, often in colonies",
+        "breeding_season": "Varies with rainfall and locality",
+        "clutch_size": "Usually 2-4 eggs",
+        "call": "Generally quiet, with grunts and low calls around colonies",
+        "lifespan": "Often lives for 10-15 years",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: all states and territories; New Guinea and nearby islands"
+    }
+},
+
+{
+    "name": "Sarus Crane",
+    "scientific": "Antigone antigone",
+    "description": "The Sarus Crane is a magnificent tall crane distinguished by its grey body, long pinkish legs and bare red head and upper neck. It is the world's tallest flying bird and is strongly associated with wetlands, flooded fields and open agricultural landscapes. Pairs are famous for their loud calls and coordinated courtship displays.",
+    "image": "SarusCrane1.jpg",
+    "quick_facts": {
+        "family": "Gruidae",
+        "size": "Up to about 180 cm tall",
+        "weight": "About 6.8-12 kg",
+        "wingspan": "About 220-280 cm",
+        "diet": "Grains, seeds, aquatic plants, insects, frogs, reptiles and small vertebrates",
+        "habitat": "Wetlands, marshes, flooded fields, grasslands and agricultural areas near water",
+        "behaviour": "Usually occurs in pairs or family groups and performs spectacular dancing displays",
+        "activity": "Diurnal",
+        "nesting": "A large mound of vegetation constructed in or beside shallow water",
+        "breeding_season": "Usually during the monsoon and wet season",
+        "clutch_size": "Usually 2 eggs",
+        "call": "Very loud trumpeting calls often given by pairs in duet",
+        "lifespan": "Can live for more than 20 years",
+        "conservation_status": "Vulnerable",
+        "where_to_find": "India: Uttar Pradesh, Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Bihar, Haryana, Punjab, West Bengal and other suitable regions; Nepal: Terai; Cambodia; Myanmar; northern Australia"
+    }
+},
+
+{
+    "name": "Secretarybird",
+    "scientific": "Sagittarius serpentarius",
+    "description": "The Secretarybird is a remarkable African terrestrial bird of prey with extremely long legs, a crest of elongated black feathers and a powerful hooked bill. Unlike most raptors, it spends much of its time walking through open grassland while searching for prey. It is particularly famous for using powerful kicks to subdue snakes and other animals.",
+    "image": "Secretarybird1.jpg",
+    "quick_facts": {
+        "family": "Sagittariidae",
+        "size": "112-150 cm",
+        "weight": "About 2.3-4.3 kg",
+        "wingspan": "About 190-220 cm",
+        "diet": "Snakes, lizards, insects, small mammals and other small vertebrates",
+        "habitat": "Open grassland, savanna and lightly wooded country",
+        "behaviour": "Walks long distances while hunting and can kill prey with powerful kicks",
+        "activity": "Diurnal",
+        "nesting": "A large stick nest constructed in a tree or thorny shrub",
+        "breeding_season": "Varies geographically, often during the dry or early wet season",
+        "clutch_size": "Usually 1-3 eggs",
+        "call": "Generally quiet; produces croaks, hisses and other low calls around the nest",
+        "lifespan": "Can live for 10-20 years",
+        "conservation_status": "Endangered",
+        "where_to_find": "Africa: South Africa, Namibia, Botswana, Zimbabwe, Zambia, Kenya, Tanzania, Uganda, Ethiopia, Sudan and other sub-Saharan countries"
+    }
+},
+
+{
+    "name": "Orange-headed Thrush",
+    "scientific": "Zoothera citrina",
+    "description": "The Orange-headed Thrush is a colourful forest thrush with a bright orange head and underparts contrasting with darker wings and back. It is generally secretive and spends much of its time foraging among leaf litter on the forest floor for insects and other small prey.",
+    "image": "Orange-HeadedThrush1.jpg",
+    "quick_facts": {
+        "family": "Turdidae",
+        "size": "20-23 cm",
+        "weight": "About 45-60 g",
+        "wingspan": "About 33-38 cm",
+        "diet": "Insects, earthworms, snails, berries and other small invertebrates",
+        "habitat": "Moist forests, evergreen woodland, plantations and dense undergrowth",
+        "behaviour": "Secretive ground forager that moves through leaf litter in search of prey",
+        "activity": "Diurnal, especially active around dawn and dusk",
+        "nesting": "A cup-shaped nest placed in a tree, shrub or other sheltered vegetation",
+        "breeding_season": "Varies by region, generally during warmer or wetter months",
+        "clutch_size": "Usually 2-3 eggs",
+        "call": "Musical whistles and soft notes",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: Himalayan foothills, northeastern states and parts of central and southern India; Sri Lanka; Bangladesh; Bhutan; Nepal"
+    }
+},
+
+{
+    "name": "Malabar Whistling Thrush",
+    "scientific": "Myophonus horsfieldii",
+    "description": "The Malabar Whistling Thrush is a dark blue-black forest thrush of the Indian subcontinent, especially associated with the Western Ghats. It is famous for its beautiful flute-like song and is often heard before it is seen. It commonly forages around streams and shaded forest floors.",
+    "image": "MalabarWhistlingThrush1.jpg",
+    "quick_facts": {
+        "family": "Turdidae",
+        "size": "25-29 cm",
+        "weight": "About 110-160 g",
+        "wingspan": "About 38-42 cm",
+        "diet": "Insects, worms, snails, small frogs, crustaceans and fruit",
+        "habitat": "Evergreen and moist deciduous forests, streams, shaded valleys and plantations",
+        "behaviour": "Often forages near streams and spends considerable time on the ground",
+        "activity": "Diurnal, especially active around dawn and dusk",
+        "nesting": "A cup-shaped nest built in rock crevices, tree hollows, banks or other sheltered sites",
+        "breeding_season": "March to August",
+        "clutch_size": "Usually 2 eggs",
+        "call": "Beautiful clear whistles and flute-like phrases",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu, especially the Western Ghats"
+    }
+},
+
+{
+    "name": "Asian Fairy-bluebird",
+    "scientific": "Irena puella",
+    "description": "The Asian Fairy-bluebird is a beautiful Southeast Asian forest bird. Males are deep blue with a glossy black head, wings and tail, while females are generally duller blue-green. It is primarily a fruit-eater and usually moves through the forest canopy searching for berries and other food.",
+    "image": "AsianFairy-Bluebird1.jpg",
+    "quick_facts": {
+        "family": "Irenidae",
+        "size": "23-27 cm",
+        "weight": "About 50-80 g",
+        "wingspan": "About 35-40 cm",
+        "diet": "Mainly fruits and berries, with some insects",
+        "habitat": "Evergreen forest, secondary woodland, plantations and forest edges",
+        "behaviour": "Usually feeds in the canopy and may occur alone, in pairs or in small groups",
+        "activity": "Diurnal",
+        "nesting": "A cup-shaped nest constructed in a tree",
+        "breeding_season": "Varies geographically, generally during local wet or warmer seasons",
+        "clutch_size": "Usually 2 eggs",
+        "call": "Clear whistles and melodious notes",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: Himalayan foothills, northeastern states and parts of the Western Ghats; Bangladesh; Bhutan; Myanmar; Thailand; Malaysia; Indonesia and the Philippines"
+    }
+},
+
+{
+    "name": "Black-naped Monarch",
+    "scientific": "Hypothymis azurea",
+    "description": "The Black-naped Monarch is a small and elegant Asian flycatcher. Males are bright blue with a distinctive black patch across the nape and black throat, while females are generally duller. It is an active insect hunter that often makes short aerial sallies from perches in forest vegetation.",
+    "image": "Black-NapedMonarch1.jpg",
+    "quick_facts": {
+        "family": "Monarchidae",
+        "size": "15-17 cm",
+        "weight": "About 8-12 g",
+        "wingspan": "About 20-25 cm",
+        "diet": "Insects and other small arthropods",
+        "habitat": "Forests, woodland, plantations, gardens and forest edges",
+        "behaviour": "Actively sallies from perches to catch insects and frequently flicks its tail",
+        "activity": "Diurnal",
+        "nesting": "A small cup-shaped nest attached to a branch or fork, often held together with spider web",
+        "breeding_season": "Generally spring and summer, varying by region",
+        "clutch_size": "Usually 2-3 eggs",
+        "call": "Clear high-pitched whistles and short calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: most wooded regions including Kerala, Karnataka, Tamil Nadu, Maharashtra, Odisha, West Bengal and northeastern states; Sri Lanka; Bangladesh; Nepal; Bhutan; Myanmar; Thailand; Malaysia; Indonesia and the Philippines"
+    }
+},
+
+{
+    "name": "Indian Thick-knee",
+    "scientific": "Burhinus indicus",
+    "description": "The Indian Thick-knee is a large ground-dwelling Indian bird with long legs, enormous yellow eyes, a strong bill and cryptic brown plumage. Despite its name, it is not a true plover. It relies heavily on camouflage and is most active during the evening, night and early morning.",
+    "image": "IndianThick-Knee1.jpg",
+    "quick_facts": {
+        "family": "Burhinidae",
+        "size": "41-44 cm",
+        "weight": "About 450-700 g",
+        "wingspan": "About 80-90 cm",
+        "diet": "Insects, beetles, grasshoppers, small reptiles and other small animals",
+        "habitat": "Dry scrub, open woodland, grassland, rocky ground and agricultural landscapes",
+        "behaviour": "Mostly terrestrial and relies on camouflage when disturbed",
+        "activity": "Crepuscular and nocturnal",
+        "nesting": "A simple scrape on bare ground",
+        "breeding_season": "March to July",
+        "clutch_size": "Usually 2 eggs",
+        "call": "Loud repeated nocturnal calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: Rajasthan, Gujarat, Maharashtra, Madhya Pradesh, Uttar Pradesh, Bihar, Odisha, Telangana, Andhra Pradesh, Karnataka, Kerala and Tamil Nadu; Nepal; Sri Lanka"
+    }
+},
+
+{
+    "name": "Black-breasted Weaver",
+    "scientific": "Ploceus benghalensis",
+    "description": "The Black-breasted Weaver is a small Indian weaver associated with grassland, reedbeds and agricultural landscapes. Breeding males have a distinctive dark breast, while females and non-breeding birds are much duller. Like other weavers, it constructs its nest by weaving grass and other plant fibres together.",
+    "image": "Black-BreastedWeaver1.jpg",
+    "quick_facts": {
+        "family": "Ploceidae",
+        "size": "12-14 cm",
+        "weight": "About 18-25 g",
+        "wingspan": "About 20-23 cm",
+        "diet": "Grass seeds, grains and insects",
+        "habitat": "Grassland, reedbeds, agricultural fields and wetland margins",
+        "behaviour": "Often moves through grasses in small groups while feeding on seeds",
+        "activity": "Diurnal",
+        "nesting": "A woven hanging nest made from grass and plant fibres, usually attached to tall vegetation",
+        "breeding_season": "Usually during the monsoon and wet season",
+        "clutch_size": "Usually 2-4 eggs",
+        "call": "Short chattering and buzzing calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: northern and northeastern states including Rajasthan, Gujarat, Punjab, Haryana, Uttar Pradesh, Bihar, West Bengal and Assam; Nepal; Bangladesh"
+    }
+},
+
+{
+    "name": "Brown Fish Owl",
+    "scientific": "Ketupa zeylonensis",
+    "description": "The Brown Fish Owl is a large Asian owl strongly associated with water. It has warm brown plumage, prominent ear tufts, a heavily streaked body and powerful talons suited to catching fish and other aquatic prey. It often sits quietly on a waterside perch before suddenly dropping down to seize prey.",
+    "image": "BrownFishOwl1.jpg",
+    "quick_facts": {
+        "family": "Strigidae",
+        "size": "48-57 cm",
+        "weight": "About 1.1-2.5 kg",
+        "wingspan": "About 125-140 cm",
+        "diet": "Fish, frogs, crustaceans, reptiles, birds and small mammals",
+        "habitat": "Rivers, lakes, streams, wetlands and wooded areas near water",
+        "behaviour": "Often hunts from a waterside perch and may plunge into shallow water for prey",
+        "activity": "Mostly nocturnal and crepuscular",
+        "nesting": "Uses tree hollows, rock ledges, cavities or abandoned nests",
+        "breeding_season": "November to April",
+        "clutch_size": "Usually 1-3 eggs",
+        "call": "Deep hoots, grunts and harsh calls",
+        "lifespan": "Often lives for many years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: northern, central, western, southern and northeastern regions; Sri Lanka; Nepal; Bangladesh; Pakistan and parts of Southeast Asia"
+    }
+},
+
+{
+    "name": "White-bellied Drongo",
+    "scientific": "Dicrurus caerulescens",
+    "description": "The White-bellied Drongo is a striking Indian drongo with dark blue-black upperparts, a contrasting pale belly and a deeply forked tail. It is an active insect hunter and often sits on exposed perches before making short flights to catch prey.",
+    "image": "White-BelliedDrongo1.jpg",
+    "quick_facts": {
+        "family": "Dicruridae",
+        "size": "28-30 cm",
+        "weight": "About 40-55 g",
+        "wingspan": "About 40-45 cm",
+        "diet": "Insects and other small arthropods",
+        "habitat": "Open woodland, forest edges, plantations and dry scrub",
+        "behaviour": "Aggressive toward intruding birds and adept at catching insects in flight",
+        "activity": "Diurnal",
+        "nesting": "A small cup nest placed in a tree fork",
+        "breeding_season": "March to June",
+        "clutch_size": "Usually 2-4 eggs",
+        "call": "Varied whistles, harsh notes and imitations of other birds",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu; Sri Lanka"
+    }
+},
+
+{
+    "name": "Azure-winged Magpie",
+    "scientific": "Cyanopica cooki",
+    "description": "The Azure-winged Magpie is a distinctive Iberian corvid with a black cap, pale body, blue wings and a blue tail. It is highly social and often travels in noisy groups through open woodland and Mediterranean landscapes. It feeds on a wide variety of plant and animal foods.",
+    "image": "Azure-WingedMagpie1.jpg",
+    "quick_facts": {
+        "family": "Corvidae",
+        "size": "31-35 cm",
+        "weight": "About 70-100 g",
+        "wingspan": "About 40-45 cm",
+        "diet": "Insects, fruit, seeds, grains and small animals",
+        "habitat": "Open woodland, oak woodland, agricultural areas and Mediterranean landscapes",
+        "behaviour": "Highly social and often forages in groups",
+        "activity": "Diurnal",
+        "nesting": "An open cup of twigs and plant material placed in a tree",
+        "breeding_season": "April to June",
+        "clutch_size": "Usually 5-7 eggs",
+        "call": "Loud high-pitched chattering calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Spain: Castilla y León, Castilla-La Mancha, Extremadura, Andalusia, Madrid and other central and western regions; Portugal: central and southern regions"
+    }
+},
+
+{
+    "name": "Sardinian Warbler",
+    "scientific": "Curruca melanocephala",
+    "description": "The Sardinian Warbler is a small Mediterranean warbler with a dark head, pale throat and grey-brown body. It is an energetic and often secretive bird of dense scrub, maquis and woodland edges. It feeds mainly on insects and small fruits.",
+    "image": "SardinianWarbler1.jpg",
+    "quick_facts": {
+        "family": "Sylviidae",
+        "size": "13-14 cm",
+        "weight": "About 10-15 g",
+        "wingspan": "About 15-18 cm",
+        "diet": "Insects, spiders, berries and small fruits",
+        "habitat": "Mediterranean scrub, maquis, gardens, woodland edges and coastal vegetation",
+        "behaviour": "Active and secretive, usually moving rapidly through dense vegetation",
+        "activity": "Diurnal",
+        "nesting": "A small cup nest placed low in dense shrubs",
+        "breeding_season": "March to June",
+        "clutch_size": "Usually 3-5 eggs",
+        "call": "Fast scratchy song with harsh alarm calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Spain: Mediterranean regions and Balearic Islands; Portugal; southern France; Italy; Greece; North Africa"
+    }
+},
+
+{
+    "name": "Golden Eagle",
+    "scientific": "Aquila chrysaetos",
+    "description": "The Golden Eagle is a huge and powerful eagle with dark brown plumage and golden-brown feathers around the head and neck. It is an adaptable mountain and open-country predator that uses its excellent eyesight to locate mammals and birds before pursuing them in powerful flight.",
+    "image": "GoldenEagle1.jpg",
+    "quick_facts": {
+        "family": "Accipitridae",
+        "size": "75-88 cm",
+        "weight": "About 2.8-6.6 kg",
+        "wingspan": "About 190-234 cm",
+        "diet": "Rabbits, hares, marmots, birds, reptiles and other medium-sized animals",
+        "habitat": "Mountains, cliffs, moorlands, open countryside and tundra",
+        "behaviour": "Soars extensively and uses powerful dives and strikes to capture prey",
+        "activity": "Diurnal",
+        "nesting": "A large stick nest often built on cliffs or in tall trees and reused for many years",
+        "breeding_season": "February to July",
+        "clutch_size": "Usually 1-4 eggs",
+        "call": "Usually quiet; produces high whistles and other calls around the nest",
+        "lifespan": "Can live for more than 20 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Spain: Pyrenees, Cantabria, Castilla y León, Aragón, Catalonia, Andalusia and other mountainous regions; much of Europe, Asia and North America"
+    }
+},
+
+{
+    "name": "Griffon Vulture",
+    "scientific": "Gyps fulvus",
+    "description": "The Griffon Vulture is a huge Old World vulture with broad wings, a pale head and neck, and contrasting dark flight feathers. It is a specialist scavenger that searches for carcasses while soaring over mountains and open countryside. Large groups can gather rapidly when a carcass is discovered.",
+    "image": "GriffonVulture1.jpg",
+    "quick_facts": {
+        "family": "Accipitridae",
+        "size": "95-110 cm",
+        "weight": "About 6-11 kg",
+        "wingspan": "About 230-265 cm",
+        "diet": "Carrion, particularly the remains of medium and large mammals",
+        "habitat": "Mountain cliffs, open countryside, dry hills and Mediterranean landscapes",
+        "behaviour": "Highly social around carcasses and often soars in large groups",
+        "activity": "Diurnal",
+        "nesting": "A large stick nest placed on cliffs, usually in colonies",
+        "breeding_season": "December to July",
+        "clutch_size": "Usually 1 egg",
+        "call": "Generally quiet away from colonies; produces hisses and grunts around nesting sites",
+        "lifespan": "Can live for more than 30 years",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Spain: Andalusia, Extremadura, Castilla y León, Castilla-La Mancha, Aragón and Catalonia; Portugal; France; Italy; Balkans; Turkey; Middle East and North Africa"
+    }
+},
+
+{
+    "name": "Sand Martin",
+    "scientific": "Riparia riparia",
+    "description": "The Sand Martin is a small brown-and-white swallow with a dark breast band and rapid, agile flight. It usually breeds colonially by excavating tunnels into sandy or soft earth near rivers, lakes and quarries. It spends much of its time in the air catching flying insects.",
+    "image": "SandMartin1.jpg",
+    "quick_facts": {
+        "family": "Hirundinidae",
+        "size": "12-13 cm",
+        "weight": "About 11-18 g",
+        "wingspan": "About 26-30 cm",
+        "diet": "Flying insects",
+        "habitat": "Riverbanks, lakeshores, sandy cliffs, quarries and open country near water",
+        "behaviour": "Highly aerial and social, often feeding in flocks over water",
+        "activity": "Diurnal",
+        "nesting": "A tunnel excavated in a sandy or earthen bank, ending in a nest chamber",
+        "breeding_season": "April to August in much of its northern breeding range",
+        "clutch_size": "Usually 3-7 eggs",
+        "call": "Rapid dry chattering calls",
+        "lifespan": "Can live for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Europe, northern Asia and North America; winters mainly in Africa, South Asia and South America depending on population"
+    }
+},
+
+{
+    "name": "Red-legged Partridge",
+    "scientific": "Alectoris rufa",
+    "description": "The Red-legged Partridge is a compact European gamebird with a grey back, barred flanks, a white throat bordered by black markings, red legs and a red bill. It is strongly associated with dry farmland, scrub, vineyards and open Mediterranean countryside. It usually walks or runs rather than flies unless disturbed.",
+    "image": "Red-LeggedPartridge1.jpg",
+    "quick_facts": {
+        "family": "Phasianidae",
+        "size": "32-35 cm",
+        "weight": "About 350-550 g",
+        "wingspan": "About 47-50 cm",
+        "diet": "Seeds, grains, shoots, leaves and insects",
+        "habitat": "Dry farmland, scrub, grassland, vineyards and open Mediterranean countryside",
+        "behaviour": "Mostly terrestrial and usually walks or runs when moving between feeding areas",
+        "activity": "Diurnal",
+        "nesting": "A shallow ground scrape lined with grass and plant material",
+        "breeding_season": "April to June",
+        "clutch_size": "Usually 10-16 eggs",
+        "call": "Loud repeated 'chuk-chuk' and other harsh calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Spain: most regions; Portugal; southwestern France; introduced populations in parts of the United Kingdom and elsewhere"
+    }
+},
+
+{
+    "name": "Himalayan Monal",
+    "scientific": "Lophophorus impejanus",
+    "description": "The Himalayan Monal is one of the most spectacular pheasants of the Himalayan region. Adult males have an extraordinary metallic mixture of green, blue, purple and copper plumage with a prominent crest, while females are mostly brown with pale markings. It generally forages on the ground by digging through soil and leaf litter.",
+    "image": "HimalayanMonal1.jpg",
+    "quick_facts": {
+        "family": "Phasianidae",
+        "size": "61-72 cm",
+        "weight": "About 1.8-2.4 kg",
+        "wingspan": "About 85-90 cm",
+        "diet": "Roots, tubers, seeds, berries, insects and other invertebrates",
+        "habitat": "Mountain forests, alpine meadows and rhododendron and conifer zones",
+        "behaviour": "Usually forages on the ground by digging through soil and leaf litter",
+        "activity": "Diurnal",
+        "nesting": "A simple ground nest concealed among vegetation",
+        "breeding_season": "April to August",
+        "clutch_size": "Usually 4-6 eggs",
+        "call": "Loud whistles and harsh alarm calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: Jammu and Kashmir, Himachal Pradesh, Uttarakhand, Sikkim and Arunachal Pradesh; Nepal; Bhutan; northern Myanmar; Pakistan"
+    }
+},
+
+{
+    "name": "Crested Bunting",
+    "scientific": "Emberiza lathami",
+    "description": "The Crested Bunting is a distinctive Asian bunting with a prominent crest. Breeding males have rich chestnut and black plumage with contrasting markings, while females are duller. It is generally associated with open scrub, grassland, agricultural areas and woodland edges.",
+    "image": "CrestedBunting1.jpg",
+    "quick_facts": {
+        "family": "Emberizidae",
+        "size": "17-18 cm",
+        "weight": "About 20-30 g",
+        "wingspan": "About 25-29 cm",
+        "diet": "Seeds, grains and insects",
+        "habitat": "Grassland, scrub, agricultural fields and open woodland",
+        "behaviour": "Often feeds on the ground and perches prominently during the breeding season",
+        "activity": "Diurnal",
+        "nesting": "A cup-shaped nest placed on or close to the ground in vegetation",
+        "breeding_season": "April to July",
+        "clutch_size": "Usually 3-5 eggs",
+        "call": "Short metallic notes and a simple song",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: northern and northeastern regions including Himachal Pradesh, Uttarakhand, Rajasthan, Gujarat, Madhya Pradesh and Uttar Pradesh; Nepal; Bhutan; Bangladesh; Myanmar"
+    }
+},
+
+{
+    "name": "Blue-throated Bee-eater",
+    "scientific": "Merops viridis",
+    "description": "The Blue-throated Bee-eater is a colourful Southeast Asian bee-eater with a green body, blue throat, dark eye stripe and long pointed wings. Like other bee-eaters, it catches flying insects from exposed perches and often returns to the same perch after each aerial pursuit.",
+    "image": "Blue-ThroatedBee-Eater1.jpg",
+    "quick_facts": {
+        "family": "Meropidae",
+        "size": "24-27 cm",
+        "weight": "About 30-45 g",
+        "wingspan": "About 35-40 cm",
+        "diet": "Bees, wasps, dragonflies, butterflies and other flying insects",
+        "habitat": "Open woodland, forest edges, scrub, plantations and grassland near suitable nesting banks",
+        "behaviour": "Perches conspicuously before making aerial sallies to catch insects",
+        "activity": "Diurnal",
+        "nesting": "Excavates a tunnel in a sandy bank or other soft substrate",
+        "breeding_season": "Varies geographically",
+        "clutch_size": "Usually 2-5 eggs",
+        "call": "High-pitched rapid chattering calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "India: mainly northeastern regions; Bangladesh; Myanmar; Thailand; Cambodia; Vietnam; Malaysia; Indonesia and the Philippines"
+    }
+},
+
+{
+    "name": "Golden Pheasant",
+    "scientific": "Chrysolophus pictus",
+    "description": "The Golden Pheasant is a spectacular pheasant native to western China. The male has a brilliant golden crest, red body, orange-and-black neck ruff and a long barred tail, while the female is much more cryptically coloured. It is mainly terrestrial and spends much of its time searching through vegetation and leaf litter for food.",
+    "image": "GoldenPheasant1.jpg",
+    "quick_facts": {
+        "family": "Phasianidae",
+        "size": "90-105 cm including the tail",
+        "weight": "About 450-700 g",
+        "wingspan": "About 65-75 cm",
+        "diet": "Seeds, grains, leaves, berries and insects",
+        "habitat": "Mountain forests, woodland edges, dense scrub and bamboo thickets",
+        "behaviour": "Mostly terrestrial and feeds by scratching through leaf litter and vegetation",
+        "activity": "Diurnal",
+        "nesting": "A ground nest hidden among dense vegetation",
+        "breeding_season": "April to June",
+        "clutch_size": "Usually 8-12 eggs",
+        "call": "Short whistles and harsh alarm calls",
+        "lifespan": "Often lives for several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "China: Sichuan, Gansu, Shaanxi, Hubei and other central and western provinces; introduced populations occur in parts of the United Kingdom and elsewhere"
+    }
+},
 
     ]
 

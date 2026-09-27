@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Northern Cardinal | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "northern-hawk-owl.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "noisy-miner.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/NorthernCardinal1.jpg" alt="Northern Cardinal" loading = "lazy">
+
+<h2 class = "bird_site_headings">Northern Cardinal</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Cardinalis cardinalis</li>
+                <li><span class="fact-label">Family:</span> Cardinalidae</li>
+                <li><span class="fact-label">Size:</span> 21-23 cm</li>
+                <li><span class="fact-label">Weight:</span> About 33-65 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 25-31 cm</li>
+                <li><span class="fact-label">Diet:</span> Seeds, grains, berries, fruit and insects</li>
+                <li><span class="fact-label">Habitat:</span> Woodland edges, thickets, gardens, parks and suburbs</li>
+                <li><span class="fact-label">Behaviour:</span> Usually forages on the ground or in low vegetation and often occurs in pairs</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> An open cup of twigs, bark, grass and plant fibres placed in dense shrubs or low trees</li>
+                <li><span class="fact-label">Breeding Season:</span> March to September</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2-5 eggs</li>
+                <li><span class="fact-label">Call:</span> Clear whistles and sharp metallic chip calls</li>
+                <li><span class="fact-label">Lifespan:</span> Often lives 10 years or more in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Canada: southern provinces; United States: eastern, central and parts of southwestern states; Mexico: northern and eastern regions</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Northern Cardinal is a familiar North American songbird with a prominent crest and strong red-orange bill. Adult males are brilliant red with a black face, while females are mostly warm brown with reddish highlights. Cardinals are common around woodland edges, gardens and suburban areas and are often seen feeding on seeds on or near the ground.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

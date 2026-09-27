@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Orange-headed Thrush | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "oriental-darter.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "northern-lapwing.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/Orange-HeadedThrush1.jpg" alt="Orange-headed Thrush" loading = "lazy">
+
+<h2 class = "bird_site_headings">Orange-headed Thrush</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Zoothera citrina</li>
+                <li><span class="fact-label">Family:</span> Turdidae</li>
+                <li><span class="fact-label">Size:</span> 20-23 cm</li>
+                <li><span class="fact-label">Weight:</span> About 45-60 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 33-38 cm</li>
+                <li><span class="fact-label">Diet:</span> Insects, earthworms, snails, berries and other small invertebrates</li>
+                <li><span class="fact-label">Habitat:</span> Moist forests, evergreen woodland, plantations and dense undergrowth</li>
+                <li><span class="fact-label">Behaviour:</span> Secretive ground forager that moves through leaf litter in search of prey</li>
+                <li><span class="fact-label">Activity:</span> Diurnal, especially active around dawn and dusk</li>
+                <li><span class="fact-label">Nesting:</span> A cup-shaped nest placed in a tree, shrub or other sheltered vegetation</li>
+                <li><span class="fact-label">Breeding Season:</span> Varies by region, generally during warmer or wetter months</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2-3 eggs</li>
+                <li><span class="fact-label">Call:</span> Musical whistles and soft notes</li>
+                <li><span class="fact-label">Lifespan:</span> Often lives for several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> India: Himalayan foothills, northeastern states and parts of central and southern India; Sri Lanka; Bangladesh; Bhutan; Nepal</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Orange-headed Thrush is a colourful forest thrush with a bright orange head and underparts contrasting with darker wings and back. It is generally secretive and spends much of its time foraging among leaf litter on the forest floor for insects and other small prey.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

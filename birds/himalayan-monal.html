@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Himalayan Monal | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "house-crow.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "griffon-vulture.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/HimalayanMonal1.jpg" alt="Himalayan Monal" loading = "lazy">
+
+<h2 class = "bird_site_headings">Himalayan Monal</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Lophophorus impejanus</li>
+                <li><span class="fact-label">Family:</span> Phasianidae</li>
+                <li><span class="fact-label">Size:</span> 61-72 cm</li>
+                <li><span class="fact-label">Weight:</span> About 1.8-2.4 kg</li>
+                <li><span class="fact-label">Wingspan:</span> About 85-90 cm</li>
+                <li><span class="fact-label">Diet:</span> Roots, tubers, seeds, berries, insects and other invertebrates</li>
+                <li><span class="fact-label">Habitat:</span> Mountain forests, alpine meadows and rhododendron and conifer zones</li>
+                <li><span class="fact-label">Behaviour:</span> Usually forages on the ground by digging through soil and leaf litter</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A simple ground nest concealed among vegetation</li>
+                <li><span class="fact-label">Breeding Season:</span> April to August</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 4-6 eggs</li>
+                <li><span class="fact-label">Call:</span> Loud whistles and harsh alarm calls</li>
+                <li><span class="fact-label">Lifespan:</span> Often lives for several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> India: Jammu and Kashmir, Himachal Pradesh, Uttarakhand, Sikkim and Arunachal Pradesh; Nepal; Bhutan; northern Myanmar; Pakistan</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Himalayan Monal is one of the most spectacular pheasants of the Himalayan region. Adult males have an extraordinary metallic mixture of green, blue, purple and copper plumage with a prominent crest, while females are mostly brown with pale markings. It generally forages on the ground by digging through soil and leaf litter.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

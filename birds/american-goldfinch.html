@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>American Goldfinch | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "american-robin.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "alexandrine-parakeet.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/AmericanGoldfinch1.jpg" alt="American Goldfinch" loading = "lazy">
+
+<h2 class = "bird_site_headings">American Goldfinch</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Spinus tristis</li>
+                <li><span class="fact-label">Family:</span> Fringillidae</li>
+                <li><span class="fact-label">Size:</span> 11-13 cm</li>
+                <li><span class="fact-label">Weight:</span> About 11-20 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 19-22 cm</li>
+                <li><span class="fact-label">Diet:</span> Seeds, especially those of thistles and sunflowers, plus some insects</li>
+                <li><span class="fact-label">Habitat:</span> Fields, meadows, woodland edges, gardens and roadsides</li>
+                <li><span class="fact-label">Behaviour:</span> Often feeds acrobatically while clinging to seedheads</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A small cup of plant fibres and down, usually placed in a shrub or low tree</li>
+                <li><span class="fact-label">Breeding Season:</span> June to August</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 4-6 eggs</li>
+                <li><span class="fact-label">Call:</span> Bright twittering calls and a distinctive flight call</li>
+                <li><span class="fact-label">Lifespan:</span> Up to about 11 years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Canada: southern provinces; United States: most states; Mexico: mainly northern and central regions</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The American Goldfinch is a small North American finch whose breeding male has brilliant yellow plumage, black wings and a black forehead. Females and winter birds are much duller. It is strongly associated with seed-producing plants, especially thistles, and is often seen hanging acrobatically from seedheads.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

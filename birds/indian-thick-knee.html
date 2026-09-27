@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Indian Thick-knee | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "italian-sparrow.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "indian-spot-billed-duck.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/IndianThick-Knee1.jpg" alt="Indian Thick-knee" loading = "lazy">
+
+<h2 class = "bird_site_headings">Indian Thick-knee</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Burhinus indicus</li>
+                <li><span class="fact-label">Family:</span> Burhinidae</li>
+                <li><span class="fact-label">Size:</span> 41-44 cm</li>
+                <li><span class="fact-label">Weight:</span> About 450-700 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 80-90 cm</li>
+                <li><span class="fact-label">Diet:</span> Insects, beetles, grasshoppers, small reptiles and other small animals</li>
+                <li><span class="fact-label">Habitat:</span> Dry scrub, open woodland, grassland, rocky ground and agricultural landscapes</li>
+                <li><span class="fact-label">Behaviour:</span> Mostly terrestrial and relies on camouflage when disturbed</li>
+                <li><span class="fact-label">Activity:</span> Crepuscular and nocturnal</li>
+                <li><span class="fact-label">Nesting:</span> A simple scrape on bare ground</li>
+                <li><span class="fact-label">Breeding Season:</span> March to July</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2 eggs</li>
+                <li><span class="fact-label">Call:</span> Loud repeated nocturnal calls</li>
+                <li><span class="fact-label">Lifespan:</span> Often lives for several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> India: Rajasthan, Gujarat, Maharashtra, Madhya Pradesh, Uttar Pradesh, Bihar, Odisha, Telangana, Andhra Pradesh, Karnataka, Kerala and Tamil Nadu; Nepal; Sri Lanka</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Indian Thick-knee is a large ground-dwelling Indian bird with long legs, enormous yellow eyes, a strong bill and cryptic brown plumage. Despite its name, it is not a true plover. It relies heavily on camouflage and is most active during the evening, night and early morning.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

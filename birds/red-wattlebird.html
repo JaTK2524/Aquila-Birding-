@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Red Wattlebird | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "red-legged-partridge.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "rainbow-lorikeet.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/RedWattlebird1.jpg" alt="Red Wattlebird" loading = "lazy">
+
+<h2 class = "bird_site_headings">Red Wattlebird</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Anthochaera carunculata</li>
+                <li><span class="fact-label">Family:</span> Meliphagidae</li>
+                <li><span class="fact-label">Size:</span> 33-37 cm</li>
+                <li><span class="fact-label">Weight:</span> About 110-150 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 45-50 cm</li>
+                <li><span class="fact-label">Diet:</span> Nectar, insects, fruit and other plant material</li>
+                <li><span class="fact-label">Habitat:</span> Woodland, forest, coastal scrub, parks and gardens</li>
+                <li><span class="fact-label">Behaviour:</span> Active and noisy; often chases other birds away from flowering trees</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A cup-shaped nest made from twigs, grass and other vegetation, usually placed in a tree or shrub</li>
+                <li><span class="fact-label">Breeding Season:</span> July to December</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2-3 eggs</li>
+                <li><span class="fact-label">Call:</span> Loud harsh and nasal calls</li>
+                <li><span class="fact-label">Lifespan:</span> Often lives for several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Australia: Queensland, New South Wales, Victoria, South Australia, Western Australia and Tasmania</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Red Wattlebird is a large Australian honeyeater with grey-brown plumage, a yellow belly, red facial wattles and a long tail. It is an active nectar feeder and can become very noisy and territorial around flowering trees. It also eats insects and fruit.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

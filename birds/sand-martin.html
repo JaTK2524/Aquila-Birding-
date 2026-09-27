@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sand Martin | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "sardinian-warbler.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "rufous-treepie.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/SandMartin1.jpg" alt="Sand Martin" loading = "lazy">
+
+<h2 class = "bird_site_headings">Sand Martin</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Riparia riparia</li>
+                <li><span class="fact-label">Family:</span> Hirundinidae</li>
+                <li><span class="fact-label">Size:</span> 12-13 cm</li>
+                <li><span class="fact-label">Weight:</span> About 11-18 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 26-30 cm</li>
+                <li><span class="fact-label">Diet:</span> Flying insects</li>
+                <li><span class="fact-label">Habitat:</span> Riverbanks, lakeshores, sandy cliffs, quarries and open country near water</li>
+                <li><span class="fact-label">Behaviour:</span> Highly aerial and social, often feeding in flocks over water</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A tunnel excavated in a sandy or earthen bank, ending in a nest chamber</li>
+                <li><span class="fact-label">Breeding Season:</span> April to August in much of its northern breeding range</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 3-7 eggs</li>
+                <li><span class="fact-label">Call:</span> Rapid dry chattering calls</li>
+                <li><span class="fact-label">Lifespan:</span> Can live for several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Europe, northern Asia and North America; winters mainly in Africa, South Asia and South America depending on population</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Sand Martin is a small brown-and-white swallow with a dark breast band and rapid, agile flight. It usually breeds colonially by excavating tunnels into sandy or soft earth near rivers, lakes and quarries. It spends much of its time in the air catching flying insects.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

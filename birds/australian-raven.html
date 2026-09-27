@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Australian Raven | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "australian-wood-duck.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "australian-pelican.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/AustralianRaven1.jpg" alt="Australian Raven" loading = "lazy">
+
+<h2 class = "bird_site_headings">Australian Raven</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Corvus coronoides</li>
+                <li><span class="fact-label">Family:</span> Corvidae</li>
+                <li><span class="fact-label">Size:</span> 46-53 cm</li>
+                <li><span class="fact-label">Weight:</span> About 650-1,000 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 90-100 cm</li>
+                <li><span class="fact-label">Diet:</span> Carrion, insects, small animals, seeds, fruit and human-associated food</li>
+                <li><span class="fact-label">Habitat:</span> Woodland, open country, farmland, parks and urban areas</li>
+                <li><span class="fact-label">Behaviour:</span> Intelligent and adaptable; often forages on the ground and occurs in pairs or small groups</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A large stick nest usually placed high in a tree</li>
+                <li><span class="fact-label">Breeding Season:</span> July to December</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 3-6 eggs</li>
+                <li><span class="fact-label">Call:</span> Deep, resonant calls often described as a drawn-out 'ah-ah-ah'</li>
+                <li><span class="fact-label">Lifespan:</span> Can live for more than 20 years</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Australia: Western Australia, South Australia, Victoria, New South Wales and southern Queensland</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Australian Raven is a large Australian corvid with almost entirely black plumage that can show a glossy sheen in good light. Adults have pale or white irises, shaggy throat feathers and a relatively long tail. It is highly adaptable and can be found in woodland, open country, farmland and urban areas.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

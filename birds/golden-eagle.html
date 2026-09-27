@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Golden Eagle | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "golden-pheasant.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "galah.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/GoldenEagle1.jpg" alt="Golden Eagle" loading = "lazy">
+
+<h2 class = "bird_site_headings">Golden Eagle</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Aquila chrysaetos</li>
+                <li><span class="fact-label">Family:</span> Accipitridae</li>
+                <li><span class="fact-label">Size:</span> 75-88 cm</li>
+                <li><span class="fact-label">Weight:</span> About 2.8-6.6 kg</li>
+                <li><span class="fact-label">Wingspan:</span> About 190-234 cm</li>
+                <li><span class="fact-label">Diet:</span> Rabbits, hares, marmots, birds, reptiles and other medium-sized animals</li>
+                <li><span class="fact-label">Habitat:</span> Mountains, cliffs, moorlands, open countryside and tundra</li>
+                <li><span class="fact-label">Behaviour:</span> Soars extensively and uses powerful dives and strikes to capture prey</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A large stick nest often built on cliffs or in tall trees and reused for many years</li>
+                <li><span class="fact-label">Breeding Season:</span> February to July</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 1-4 eggs</li>
+                <li><span class="fact-label">Call:</span> Usually quiet; produces high whistles and other calls around the nest</li>
+                <li><span class="fact-label">Lifespan:</span> Can live for more than 20 years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Spain: Pyrenees, Cantabria, Castilla y León, Aragón, Catalonia, Andalusia and other mountainous regions; much of Europe, Asia and North America</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Golden Eagle is a huge and powerful eagle with dark brown plumage and golden-brown feathers around the head and neck. It is an adaptable mountain and open-country predator that uses its excellent eyesight to locate mammals and birds before pursuing them in powerful flight.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

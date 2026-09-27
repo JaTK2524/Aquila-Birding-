@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Brown Pelican | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "brown-rock-chat.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "brown-fish-owl.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/BrownPelican1.jpg" alt="Brown Pelican" loading = "lazy">
+
+<h2 class = "bird_site_headings">Brown Pelican</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Pelecanus occidentalis</li>
+                <li><span class="fact-label">Family:</span> Pelecanidae</li>
+                <li><span class="fact-label">Size:</span> 106-137 cm</li>
+                <li><span class="fact-label">Weight:</span> About 2.7-5.9 kg</li>
+                <li><span class="fact-label">Wingspan:</span> About 183-228 cm</li>
+                <li><span class="fact-label">Diet:</span> Mainly fish, with some crustaceans and other aquatic prey</li>
+                <li><span class="fact-label">Habitat:</span> Coasts, bays, estuaries, mangroves and coastal islands</li>
+                <li><span class="fact-label">Behaviour:</span> Often glides in groups and plunge-dives into water to catch fish</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> Colonial nests made from sticks and vegetation, usually in trees, bushes or on islands</li>
+                <li><span class="fact-label">Breeding Season:</span> Varies geographically</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2-4 eggs</li>
+                <li><span class="fact-label">Call:</span> Adults are generally quiet; young produce begging calls</li>
+                <li><span class="fact-label">Lifespan:</span> Can live for more than 30 years</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> United States: Atlantic, Gulf and Pacific coastal states; Mexico: Pacific and Gulf coasts; Central America, northern South America and Caribbean islands</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Brown Pelican is a large coastal pelican with a long bill and an enormous expandable throat pouch. It is famous for plunge-diving from the air to catch fish, sometimes dropping from considerable height before entering the water. It is commonly seen along coasts, bays and estuaries.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

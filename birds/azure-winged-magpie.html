@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Azure-winged Magpie | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "baltimore-oriole.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "australian-wood-duck.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/Azure-WingedMagpie1.jpg" alt="Azure-winged Magpie" loading = "lazy">
+
+<h2 class = "bird_site_headings">Azure-winged Magpie</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Cyanopica cooki</li>
+                <li><span class="fact-label">Family:</span> Corvidae</li>
+                <li><span class="fact-label">Size:</span> 31-35 cm</li>
+                <li><span class="fact-label">Weight:</span> About 70-100 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 40-45 cm</li>
+                <li><span class="fact-label">Diet:</span> Insects, fruit, seeds, grains and small animals</li>
+                <li><span class="fact-label">Habitat:</span> Open woodland, oak woodland, agricultural areas and Mediterranean landscapes</li>
+                <li><span class="fact-label">Behaviour:</span> Highly social and often forages in groups</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> An open cup of twigs and plant material placed in a tree</li>
+                <li><span class="fact-label">Breeding Season:</span> April to June</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 5-7 eggs</li>
+                <li><span class="fact-label">Call:</span> Loud high-pitched chattering calls</li>
+                <li><span class="fact-label">Lifespan:</span> Often lives for several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Spain: Castilla y León, Castilla-La Mancha, Extremadura, Andalusia, Madrid and other central and western regions; Portugal: central and southern regions</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Azure-winged Magpie is a distinctive Iberian corvid with a black cap, pale body, blue wings and a blue tail. It is highly social and often travels in noisy groups through open woodland and Mediterranean landscapes. It feeds on a wide variety of plant and animal foods.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Malabar Whistling Thrush | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "masked-lapwing.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "malabar-pied-hornbill.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/MalabarWhistlingThrush1.jpg" alt="Malabar Whistling Thrush" loading = "lazy">
+
+<h2 class = "bird_site_headings">Malabar Whistling Thrush</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Myophonus horsfieldii</li>
+                <li><span class="fact-label">Family:</span> Turdidae</li>
+                <li><span class="fact-label">Size:</span> 25-29 cm</li>
+                <li><span class="fact-label">Weight:</span> About 110-160 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 38-42 cm</li>
+                <li><span class="fact-label">Diet:</span> Insects, worms, snails, small frogs, crustaceans and fruit</li>
+                <li><span class="fact-label">Habitat:</span> Evergreen and moist deciduous forests, streams, shaded valleys and plantations</li>
+                <li><span class="fact-label">Behaviour:</span> Often forages near streams and spends considerable time on the ground</li>
+                <li><span class="fact-label">Activity:</span> Diurnal, especially active around dawn and dusk</li>
+                <li><span class="fact-label">Nesting:</span> A cup-shaped nest built in rock crevices, tree hollows, banks or other sheltered sites</li>
+                <li><span class="fact-label">Breeding Season:</span> March to August</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2 eggs</li>
+                <li><span class="fact-label">Call:</span> Beautiful clear whistles and flute-like phrases</li>
+                <li><span class="fact-label">Lifespan:</span> Often lives for several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> India: Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu, especially the Western Ghats</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Malabar Whistling Thrush is a dark blue-black forest thrush of the Indian subcontinent, especially associated with the Western Ghats. It is famous for its beautiful flute-like song and is often heard before it is seen. It commonly forages around streams and shaded forest floors.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

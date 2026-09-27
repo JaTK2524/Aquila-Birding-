@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>American Robin | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "ashy-drongo.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "american-goldfinch.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/AmericanRobin1.jpg" alt="American Robin" loading = "lazy">
+
+<h2 class = "bird_site_headings">American Robin</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Turdus migratorius</li>
+                <li><span class="fact-label">Family:</span> Turdidae</li>
+                <li><span class="fact-label">Size:</span> 23-28 cm</li>
+                <li><span class="fact-label">Weight:</span> About 77-85 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 31-41 cm</li>
+                <li><span class="fact-label">Diet:</span> Earthworms, insects, berries and other fruit</li>
+                <li><span class="fact-label">Habitat:</span> Woodlands, parks, lawns, gardens and urban areas</li>
+                <li><span class="fact-label">Behaviour:</span> Runs across open ground while searching for prey and often forages in flocks outside the breeding season</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A cup-shaped nest made from grass, twigs and mud, usually placed in a tree or shrub</li>
+                <li><span class="fact-label">Breeding Season:</span> April to August</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 3-5 eggs</li>
+                <li><span class="fact-label">Call:</span> Clear musical phrases and sharp alarm calls</li>
+                <li><span class="fact-label">Lifespan:</span> Often 2-6 years, with much longer lifespans recorded</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Canada: most provinces and territories; United States: most states; Mexico: northern and mountainous regions</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The American Robin is a familiar North American thrush with a grey-brown back, orange-red breast and yellowish bill. It is particularly well known for running across lawns and open ground while searching for earthworms. It also eats large quantities of berries and fruit and can be found in forests, gardens, parks and suburban neighbourhoods.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

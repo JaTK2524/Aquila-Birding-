@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sarus Crane | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "scaly-breasted-munia.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "sardinian-warbler.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/SarusCrane1.jpg" alt="Sarus Crane" loading = "lazy">
+
+<h2 class = "bird_site_headings">Sarus Crane</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Antigone antigone</li>
+                <li><span class="fact-label">Family:</span> Gruidae</li>
+                <li><span class="fact-label">Size:</span> Up to about 180 cm tall</li>
+                <li><span class="fact-label">Weight:</span> About 6.8-12 kg</li>
+                <li><span class="fact-label">Wingspan:</span> About 220-280 cm</li>
+                <li><span class="fact-label">Diet:</span> Grains, seeds, aquatic plants, insects, frogs, reptiles and small vertebrates</li>
+                <li><span class="fact-label">Habitat:</span> Wetlands, marshes, flooded fields, grasslands and agricultural areas near water</li>
+                <li><span class="fact-label">Behaviour:</span> Usually occurs in pairs or family groups and performs spectacular dancing displays</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A large mound of vegetation constructed in or beside shallow water</li>
+                <li><span class="fact-label">Breeding Season:</span> Usually during the monsoon and wet season</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2 eggs</li>
+                <li><span class="fact-label">Call:</span> Very loud trumpeting calls often given by pairs in duet</li>
+                <li><span class="fact-label">Lifespan:</span> Can live for more than 20 years</li>
+                <li><span class="fact-label">Conservation Status:</span> Vulnerable</li>
+                <li><span class="fact-label">Where to Find:</span> India: Uttar Pradesh, Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Bihar, Haryana, Punjab, West Bengal and other suitable regions; Nepal: Terai; Cambodia; Myanmar; northern Australia</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Sarus Crane is a magnificent tall crane distinguished by its grey body, long pinkish legs and bare red head and upper neck. It is the world's tallest flying bird and is strongly associated with wetlands, flooded fields and open agricultural landscapes. Pairs are famous for their loud calls and coordinated courtship displays.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

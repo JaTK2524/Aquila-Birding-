@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Scarlet Tanager | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "secretarybird.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "scaly-breasted-munia.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/ScarletTanager1.jpg" alt="Scarlet Tanager" loading = "lazy">
+
+<h2 class = "bird_site_headings">Scarlet Tanager</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Piranga olivacea</li>
+                <li><span class="fact-label">Family:</span> Cardinalidae</li>
+                <li><span class="fact-label">Size:</span> 16-17 cm</li>
+                <li><span class="fact-label">Weight:</span> About 23-38 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 25-29 cm</li>
+                <li><span class="fact-label">Diet:</span> Insects, spiders, berries and other fruit</li>
+                <li><span class="fact-label">Habitat:</span> Mature deciduous and mixed forests</li>
+                <li><span class="fact-label">Behaviour:</span> Usually forages in the canopy and catches insects from foliage</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A loose open cup of twigs and grass placed on a horizontal branch</li>
+                <li><span class="fact-label">Breeding Season:</span> May to July</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 3-5 eggs</li>
+                <li><span class="fact-label">Call:</span> A rich robin-like song and a distinctive harsh call</li>
+                <li><span class="fact-label">Lifespan:</span> Often several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Canada: southern Ontario, Quebec and Atlantic provinces; United States: eastern and northern states; winters mainly in northern and western South America</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Scarlet Tanager is a striking North American songbird. Breeding males are brilliant scarlet with black wings and tail, while females are yellow-green. The species spends much of its time high in mature forest canopies, where it searches for insects and fruit.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>
