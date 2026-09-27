@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Magpie-lark | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "malabar-pied-hornbill.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "long-tailed-shrike.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/Magpie-Lark1.jpg" alt="Magpie-lark" loading = "lazy">
+
+<h2 class = "bird_site_headings">Magpie-lark</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Grallina cyanoleuca</li>
+                <li><span class="fact-label">Family:</span> Grallinidae</li>
+                <li><span class="fact-label">Size:</span> 26-30 cm</li>
+                <li><span class="fact-label">Weight:</span> About 90-100 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 40-45 cm</li>
+                <li><span class="fact-label">Diet:</span> Insects, worms and other small invertebrates</li>
+                <li><span class="fact-label">Habitat:</span> Wetlands, grassland, farmland, open woodland, parks and gardens</li>
+                <li><span class="fact-label">Behaviour:</span> Territorial and usually seen alone or in pairs while foraging on the ground</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A distinctive bowl-shaped mud nest built on a tree branch</li>
+                <li><span class="fact-label">Breeding Season:</span> Usually throughout much of the year, depending on conditions</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 3-5 eggs</li>
+                <li><span class="fact-label">Call:</span> Clear, ringing calls often given by both members of a pair</li>
+                <li><span class="fact-label">Lifespan:</span> Often several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Australia: widespread across Queensland, New South Wales, Victoria, South Australia, Western Australia and the Northern Territory; also found in Tasmania</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Magpie-lark is a familiar black-and-white Australian bird that is often seen around wetlands, gardens, farmland and open woodland. Males and females both have bold black-and-white plumage, although their facial patterns differ. The species spends much of its time on the ground searching for insects and other small invertebrates, often walking across lawns and muddy ground. Magpie-larks are territorial and can be particularly vocal, producing a series of clear calls that are sometimes described as a conversational exchange between pairs. They build distinctive mud nests in trees, often close to water.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

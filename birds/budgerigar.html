@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Budgerigar | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "cattle-egret.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "brown-headed-barbet.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/Budgerigar1.jpg" alt="Budgerigar" loading = "lazy">
+
+<h2 class = "bird_site_headings">Budgerigar</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Melopsittacus undulatus</li>
+                <li><span class="fact-label">Family:</span> Psittaculidae</li>
+                <li><span class="fact-label">Size:</span> 18 cm</li>
+                <li><span class="fact-label">Weight:</span> About 30-40 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 30 cm</li>
+                <li><span class="fact-label">Diet:</span> Grass seeds and other seeds, with occasional plant material</li>
+                <li><span class="fact-label">Habitat:</span> Grassland, open woodland, scrubland and dry interior landscapes</li>
+                <li><span class="fact-label">Behaviour:</span> Highly social and often gathers in large flocks around food and water</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A natural tree hollow or similar cavity</li>
+                <li><span class="fact-label">Breeding Season:</span> Mainly after rainfall when food is plentiful</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 4-6 eggs</li>
+                <li><span class="fact-label">Call:</span> Continuous cheerful chirping and chattering calls in flight and around feeding areas</li>
+                <li><span class="fact-label">Lifespan:</span> Often 5-10 years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Australia: widespread across Queensland, New South Wales, Victoria, South Australia, Western Australia and the Northern Territory, particularly across the interior</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Budgerigar is a small, slender Australian parrot famous worldwide as a popular cage bird but naturally occurring in large numbers across the Australian interior. Wild Budgerigars are predominantly green and yellow with black barring on the head, back and wings. They are highly social and can form enormous flocks, particularly after rainfall when temporary water sources and fresh grass seeds become available. They feed mainly on seeds on the ground and may travel long distances in search of food and water. Their ability to survive in Australia's dry interior makes them one of the country's most successful small parrots.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Grey Butcherbird | Aquila Birding</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="icon" href="../Props/J.T.K_Birding_Favicon.png">
+</head>
+<body class = "body">
+<audio id = "birdAudio" src = "../Props/MyMusic6.mp3" autoplay muted loop ></audio>
+<button id = "muteButton" class = "audio_button">🔇</button>
+<div  style = "text-align:center">
+<div class = "navbar2">
+<a href = "../index.html">Home</a>
+&nbsp;&nbsp;
+<a href = "../about-us.html">About Us</a>
+&nbsp;&nbsp;
+<a href = "../CasinoGame.html">Casino</a>
+</div>
+</div>
+<div class="bird-info">
+<a href = "grey-francolin.html" >
+<button class = "next_page" >
+Next Page
+</button>
+</a>
+<a href = "greater-racket-tailed-drongo.html">
+<button class = "previous_page">
+Previous Page
+</button>
+</a>
+<img src="../Images/GreyButcherbird1.jpg" alt="Grey Butcherbird" loading = "lazy">
+
+<h2 class = "bird_site_headings">Grey Butcherbird</h2>
+<section class="quick-facts">
+      <h2 class = "bird_site_headings">Quick Facts</h2>
+
+            <ul>
+                <li><span class="fact-label">Scientific name:</span> Cracticus torquatus</li>
+                <li><span class="fact-label">Family:</span> Artamidae</li>
+                <li><span class="fact-label">Size:</span> 27-30 cm</li>
+                <li><span class="fact-label">Weight:</span> About 80-100 g</li>
+                <li><span class="fact-label">Wingspan:</span> About 40-45 cm</li>
+                <li><span class="fact-label">Diet:</span> Insects, small reptiles, small birds and other small animals</li>
+                <li><span class="fact-label">Habitat:</span> Woodland, open forest, farmland, parks and suburban gardens</li>
+                <li><span class="fact-label">Behaviour:</span> Hunts from exposed perches and often returns to regular lookout points</li>
+                <li><span class="fact-label">Activity:</span> Diurnal</li>
+                <li><span class="fact-label">Nesting:</span> A cup-shaped nest made from twigs, grass and other plant material</li>
+                <li><span class="fact-label">Breeding Season:</span> Usually July to January</li>
+                <li><span class="fact-label">Clutch Size:</span> Usually 2-4 eggs</li>
+                <li><span class="fact-label">Call:</span> Rich whistles, warbling notes and varied musical calls</li>
+                <li><span class="fact-label">Lifespan:</span> Often several years in the wild</li>
+                <li><span class="fact-label">Conservation Status:</span> Least Concern</li>
+                <li><span class="fact-label">Where to Find:</span> Australia: widespread across Queensland, New South Wales, Victoria, South Australia and Western Australia, with additional populations in Tasmania</li>
+            </ul>
+        </section>
+
+        <section class="about-bird">
+            <h2 class = "bird_site_headings">About the Bird</h2>
+
+            <p>The Grey Butcherbird is a stocky Australian songbird with a strong hooked bill, grey back, black head and white markings. It occurs in a wide range of habitats, including woodland, farmland, parks and suburban gardens. Grey Butcherbirds are active hunters and search from exposed perches for insects, small reptiles and other prey, which they may carry back to a favourite perch. They are also accomplished singers and can produce a surprisingly varied collection of whistles, notes and melodic phrases. Pairs are territorial and often remain in the same area for long periods.</p>
+        </section>
+</div>
+<footer>
+&copy; 2026 Aquila Birding
+</footer>
+<script>
+const button = document.getElementById("muteButton")
+const audio = document.getElementById("birdAudio")
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+ 
+ if (audio.muted) {
+    button.textContent = "🔇";
+    } else {
+             audio.play();
+             button.textContent = "🔊";
+             }
+              });
+</script>
+</body>
+</html>

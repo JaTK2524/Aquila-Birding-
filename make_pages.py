@@ -4505,6 +4505,245 @@ birds = [
         "where_to_find": "China: Sichuan, Gansu, Shaanxi, Hubei and other central and western provinces; introduced populations occur in parts of the United Kingdom and elsewhere"
     }
 },
+{
+    "name": "Crested Pigeon",
+    "scientific": "Ocyphaps lophotes",
+    "description": "The Crested Pigeon is a slender Australian pigeon with a long pointed crest, a grey-brown body and striking dark wing markings. It is commonly found in open country, grasslands, farmland, parks and urban areas, where it often walks along the ground searching for food. When disturbed, it takes off with rapid wingbeats that produce a distinctive whistling sound. Crested Pigeons usually feed on the ground and are often seen singly, in pairs or in small groups. They drink regularly and may gather in large numbers around water sources in dry regions.",
+    "image": "CrestedPigeon1.jpg",
+    "quick_facts": {
+        "family": "Columbidae",
+        "size": "30-34 cm",
+        "weight": "About 180-220 g",
+        "wingspan": "About 45-50 cm",
+        "diet": "Seeds, grains and other plant material",
+        "habitat": "Open woodland, grassland, farmland, scrubland, parks and urban areas",
+        "behaviour": "Usually forages on the ground and may gather around water sources",
+        "activity": "Diurnal",
+        "nesting": "A small platform of twigs placed in a tree or shrub",
+        "breeding_season": "Usually throughout much of the year when conditions are favourable",
+        "clutch_size": "Usually 2 eggs",
+        "call": "Soft cooing calls and a distinctive whistling wing sound during flight",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: widespread across most mainland states and territories, including Queensland, New South Wales, Victoria, South Australia, Western Australia and the Northern Territory"
+    }
+},
+
+{
+    "name": "Magpie-lark",
+    "scientific": "Grallina cyanoleuca",
+    "description": "The Magpie-lark is a familiar black-and-white Australian bird that is often seen around wetlands, gardens, farmland and open woodland. Males and females both have bold black-and-white plumage, although their facial patterns differ. The species spends much of its time on the ground searching for insects and other small invertebrates, often walking across lawns and muddy ground. Magpie-larks are territorial and can be particularly vocal, producing a series of clear calls that are sometimes described as a conversational exchange between pairs. They build distinctive mud nests in trees, often close to water.",
+    "image": "Magpie-Lark1.jpg",
+    "quick_facts": {
+        "family": "Grallinidae",
+        "size": "26-30 cm",
+        "weight": "About 90-100 g",
+        "wingspan": "About 40-45 cm",
+        "diet": "Insects, worms and other small invertebrates",
+        "habitat": "Wetlands, grassland, farmland, open woodland, parks and gardens",
+        "behaviour": "Territorial and usually seen alone or in pairs while foraging on the ground",
+        "activity": "Diurnal",
+        "nesting": "A distinctive bowl-shaped mud nest built on a tree branch",
+        "breeding_season": "Usually throughout much of the year, depending on conditions",
+        "clutch_size": "Usually 3-5 eggs",
+        "call": "Clear, ringing calls often given by both members of a pair",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: widespread across Queensland, New South Wales, Victoria, South Australia, Western Australia and the Northern Territory; also found in Tasmania"
+    }
+},
+
+{
+    "name": "Black-faced Cuckooshrike",
+    "scientific": "Coracina novaehollandiae",
+    "description": "The Black-faced Cuckooshrike is a medium-sized Australian bird with grey plumage, a distinctive black face and a broad dark bill. Despite its name, it is neither a cuckoo nor a shrike, but belongs to the cuckooshrike family. It is commonly encountered in open woodland, farmland, parks and suburban areas, where it moves through trees searching for insects and other food. Black-faced Cuckooshrikes are often seen singly, in pairs or in small family groups and have a characteristic habit of sitting upright on exposed branches. Their flight is strong and direct, with steady wingbeats.",
+    "image": "Black-FacedCuckooshrike1.jpg",
+    "quick_facts": {
+        "family": "Campephagidae",
+        "size": "31-36 cm",
+        "weight": "About 90-120 g",
+        "wingspan": "About 45-50 cm",
+        "diet": "Insects, caterpillars, fruits and other small food items",
+        "habitat": "Open woodland, forest edges, farmland, parks and gardens",
+        "behaviour": "Often perches upright on exposed branches and forages among foliage",
+        "activity": "Diurnal",
+        "nesting": "A small, shallow nest constructed from plant material and spider web",
+        "breeding_season": "Usually spring and summer",
+        "clutch_size": "Usually 2-4 eggs",
+        "call": "Soft, musical and chattering calls",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: widespread across Queensland, New South Wales, Victoria, South Australia, Western Australia, the Northern Territory and Tasmania"
+    }
+},
+
+{
+    "name": "Grey Butcherbird",
+    "scientific": "Cracticus torquatus",
+    "description": "The Grey Butcherbird is a stocky Australian songbird with a strong hooked bill, grey back, black head and white markings. It occurs in a wide range of habitats, including woodland, farmland, parks and suburban gardens. Grey Butcherbirds are active hunters and search from exposed perches for insects, small reptiles and other prey, which they may carry back to a favourite perch. They are also accomplished singers and can produce a surprisingly varied collection of whistles, notes and melodic phrases. Pairs are territorial and often remain in the same area for long periods.",
+    "image": "GreyButcherbird1.jpg",
+    "quick_facts": {
+        "family": "Artamidae",
+        "size": "27-30 cm",
+        "weight": "About 80-100 g",
+        "wingspan": "About 40-45 cm",
+        "diet": "Insects, small reptiles, small birds and other small animals",
+        "habitat": "Woodland, open forest, farmland, parks and suburban gardens",
+        "behaviour": "Hunts from exposed perches and often returns to regular lookout points",
+        "activity": "Diurnal",
+        "nesting": "A cup-shaped nest made from twigs, grass and other plant material",
+        "breeding_season": "Usually July to January",
+        "clutch_size": "Usually 2-4 eggs",
+        "call": "Rich whistles, warbling notes and varied musical calls",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: widespread across Queensland, New South Wales, Victoria, South Australia and Western Australia, with additional populations in Tasmania"
+    }
+},
+
+{
+    "name": "Budgerigar",
+    "scientific": "Melopsittacus undulatus",
+    "description": "The Budgerigar is a small, slender Australian parrot famous worldwide as a popular cage bird but naturally occurring in large numbers across the Australian interior. Wild Budgerigars are predominantly green and yellow with black barring on the head, back and wings. They are highly social and can form enormous flocks, particularly after rainfall when temporary water sources and fresh grass seeds become available. They feed mainly on seeds on the ground and may travel long distances in search of food and water. Their ability to survive in Australia's dry interior makes them one of the country's most successful small parrots.",
+    "image": "Budgerigar1.jpg",
+    "quick_facts": {
+        "family": "Psittaculidae",
+        "size": "18 cm",
+        "weight": "About 30-40 g",
+        "wingspan": "About 30 cm",
+        "diet": "Grass seeds and other seeds, with occasional plant material",
+        "habitat": "Grassland, open woodland, scrubland and dry interior landscapes",
+        "behaviour": "Highly social and often gathers in large flocks around food and water",
+        "activity": "Diurnal",
+        "nesting": "A natural tree hollow or similar cavity",
+        "breeding_season": "Mainly after rainfall when food is plentiful",
+        "clutch_size": "Usually 4-6 eggs",
+        "call": "Continuous cheerful chirping and chattering calls in flight and around feeding areas",
+        "lifespan": "Often 5-10 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: widespread across Queensland, New South Wales, Victoria, South Australia, Western Australia and the Northern Territory, particularly across the interior"
+    }
+},
+
+{
+    "name": "Cockatiel",
+    "scientific": "Nymphicus hollandicus",
+    "description": "The Cockatiel is a slender Australian cockatoo with a long tail, prominent erectile crest and distinctive orange cheek patches. Wild Cockatiels are predominantly grey, with males developing brighter yellow facial colouring as they mature. They are highly social and are often seen in pairs or flocks, particularly around water sources and areas with abundant grass seeds. The species is well adapted to Australia's inland environments and can travel considerable distances in search of food and water. Wild Cockatiels usually feed on the ground and spend the hottest part of the day resting in trees or shrubs.",
+    "image": "Cockatiel1.jpg",
+    "quick_facts": {
+        "family": "Cacatuidae",
+        "size": "30-33 cm",
+        "weight": "About 80-100 g",
+        "wingspan": "About 45-50 cm",
+        "diet": "Grass seeds, grains, fruits and other plant material",
+        "habitat": "Open woodland, grassland, scrubland and dry inland areas",
+        "behaviour": "Highly social and often travels in pairs or large flocks",
+        "activity": "Diurnal",
+        "nesting": "A tree hollow containing little or no nesting material",
+        "breeding_season": "Usually after rainfall when food is abundant",
+        "clutch_size": "Usually 4-7 eggs",
+        "call": "Loud whistles, contact calls and chattering",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: widespread across Queensland, New South Wales, South Australia, Western Australia and the Northern Territory, especially in inland regions"
+    }
+},
+
+{
+    "name": "Black Swan",
+    "scientific": "Cygnus atratus",
+    "description": "The Black Swan is a large Australian waterbird with predominantly black plumage, a long elegant neck and contrasting white flight feathers that become particularly obvious in flight. Its deep red bill has a pale band near the tip. Black Swans inhabit wetlands, lakes, rivers, estuaries and coastal lagoons and feed mainly on aquatic vegetation. They are strong swimmers and can gather in large flocks where suitable wetlands provide abundant food. Unlike many large waterbirds, they are comfortable in both freshwater and saltwater environments.",
+    "image": "BlackSwan1.jpg",
+    "quick_facts": {
+        "family": "Anatidae",
+        "size": "110-142 cm",
+        "weight": "About 3.7-9 kg",
+        "wingspan": "About 160-200 cm",
+        "diet": "Aquatic vegetation, algae and other plant material",
+        "habitat": "Lakes, rivers, wetlands, estuaries, coastal lagoons and shallow waterways",
+        "behaviour": "Usually swims while feeding and may gather in large flocks",
+        "activity": "Diurnal",
+        "nesting": "A large floating or ground nest made from aquatic vegetation",
+        "breeding_season": "Variable, often following favourable rainfall and water conditions",
+        "clutch_size": "Usually 5-9 eggs",
+        "call": "Soft bugling, trumpeting and musical calls",
+        "lifespan": "Often 10-15 years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: widespread in suitable wetlands across all mainland states and territories and Tasmania"
+    }
+},
+
+{
+    "name": "Brolga",
+    "scientific": "Antigone rubicunda",
+    "description": "The Brolga is a large Australian crane with long legs, a long neck, grey plumage and a distinctive red patch of bare skin on the head. It is particularly associated with wetlands and open grasslands in northern and eastern Australia. Brolgas feed on roots, tubers, seeds and small animals and may forage in shallow water or on dry ground. They are famous for their elaborate courtship displays, during which pairs may bow, leap, spread their wings and toss vegetation into the air. Brolgas can form large groups outside the breeding season and are one of Australia's most recognizable native cranes.",
+    "image": "Brolga1.jpg",
+    "quick_facts": {
+        "family": "Gruidae",
+        "size": "95-125 cm",
+        "weight": "About 3.6-8.7 kg",
+        "wingspan": "About 170-240 cm",
+        "diet": "Roots, tubers, seeds, grasses, insects and other small animals",
+        "habitat": "Freshwater wetlands, floodplains, grasslands and open woodland",
+        "behaviour": "Forages in wetlands and grasslands and performs elaborate courtship displays",
+        "activity": "Diurnal",
+        "nesting": "A platform of vegetation built on a shallow wetland or nearby ground",
+        "breeding_season": "Usually during the wet season, varying geographically",
+        "clutch_size": "Usually 2 eggs",
+        "call": "Loud trumpeting calls that carry over long distances",
+        "lifespan": "Often many years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: mainly Queensland, New South Wales, Victoria, the Northern Territory and northern Western Australia"
+    }
+},
+
+{
+    "name": "Red-browed Finch",
+    "scientific": "Neochmia temporalis",
+    "description": "The Red-browed Finch is a small and colourful Australian finch with a bright red eyebrow, red bill and red rump contrasting with olive-green and grey plumage. It is commonly found in grassy areas near woodland, forest edges, wetlands, farmland and gardens in eastern and southeastern Australia. Red-browed Finches are social birds and usually occur in pairs or small groups, often feeding together on the ground. They eat mainly seeds and may also take insects and other small food items. Their attractive plumage and active behaviour make them a familiar finch in suitable habitats.",
+    "image": "Red-BrowedFinch1.jpg",
+    "quick_facts": {
+        "family": "Estrildidae",
+        "size": "11-12 cm",
+        "weight": "About 10-15 g",
+        "wingspan": "About 15-17 cm",
+        "diet": "Grass seeds, other seeds and small insects",
+        "habitat": "Grassland, forest edges, woodland, wetlands, farmland and gardens",
+        "behaviour": "Social and usually seen in pairs or small flocks while feeding",
+        "activity": "Diurnal",
+        "nesting": "A domed grass nest with a side entrance, usually placed in dense vegetation",
+        "breeding_season": "Usually spring and summer",
+        "clutch_size": "Usually 4-6 eggs",
+        "call": "High-pitched twittering and soft contact calls",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: eastern Queensland, New South Wales, Victoria and southeastern South Australia; also Tasmania"
+    }
+},
+
+{
+    "name": "Welcome Swallow",
+    "scientific": "Hirundo neoxena",
+    "description": "The Welcome Swallow is a small, fast-flying Australian swallow with a glossy blue-black back, reddish forehead and throat, pale underparts and a deeply forked tail. It is one of the most familiar swallows in Australia and can be found around wetlands, farmland, open woodland, parks, towns and coastal areas. Welcome Swallows spend much of their time in flight catching insects, often flying low over water or grassland. They are agile fliers capable of sudden turns and rapid changes of direction while pursuing flying insects. The species frequently nests on buildings, bridges and other structures close to suitable feeding areas.",
+    "image": "WelcomeSwallow1.jpg",
+    "quick_facts": {
+        "family": "Hirundinidae",
+        "size": "15-17 cm",
+        "weight": "About 15-20 g",
+        "wingspan": "About 30 cm",
+        "diet": "Flying insects",
+        "habitat": "Wetlands, grassland, farmland, open woodland, parks, towns and coastal areas",
+        "behaviour": "Highly aerial and often catches insects while flying low over open ground or water",
+        "activity": "Diurnal",
+        "nesting": "A mud cup nest attached to a wall, building, bridge or other structure",
+        "breeding_season": "Usually August to February",
+        "clutch_size": "Usually 3-5 eggs",
+        "call": "Rapid twittering and soft chattering calls",
+        "lifespan": "Often several years in the wild",
+        "conservation_status": "Least Concern",
+        "where_to_find": "Australia: widespread across Queensland, New South Wales, Victoria, South Australia, Western Australia, the Northern Territory and Tasmania"
+    }
+},
 
     ]
 
