@@ -4,6 +4,7 @@ let money;
 
 if(SavedMoney === null) {
     money = 100;
+    localStorage.setItem("winnings", money)
     } else {
              money = Number(SavedMoney)
              
@@ -20,7 +21,7 @@ const MoneyDisplay = document.getElementById("money");
 const bet = document.getElementById("bet");
 const resultDisplay = document.getElementById("result")
 
-MoneyDisplay.textContent = "Coins: " + money;
+MoneyDisplay.textContent = "Seeds: " + money;
 
 play.addEventListener("click", function() {
      const choices = ["Heads", "Tails", "Third-Face"];
@@ -38,25 +39,25 @@ play.addEventListener("click", function() {
          money += chosenBet;
          
          resultDisplay.textContent  = 
-           "You won! The result was " + result + ". You receive " + chosenBet + " coins!"; 
+           "🦉  You won! The result was " + result + ". You receive " + chosenBet + " seeds!   🦉"  ; 
            } else {
                     money -= chosenBet;
                     
-                    resultDisplay.textContent = "You lost! The result was " + result + ". You lose " + chosenBet + " coins."
+                    resultDisplay.textContent = "🦜  You lost! The result was " + result + ". You lose " + chosenBet + " seeds.  🦜"
                     }
            
-           MoneyDisplay.textContent = "Coins: " + money;
+           MoneyDisplay.textContent = "Seeds: " + money;
            
            localStorage.setItem("winnings", money);
            
            
            if (money === 0) {
            
-               const newGame = confirm("Do you want to start a new game with 50 coins? ")
+               const newGame = confirm("Do you want to start a new game with 50 seeds? ")
                
                if(newGame) {
                  money = 50;
-                 MoneyDisplay.textContent = "Coins: " + money;
+                 MoneyDisplay.textContent = "Seeds: " + money;
                  localStorage.setItem("winnings", money);
                  }
                }  
