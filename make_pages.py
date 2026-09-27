@@ -4762,7 +4762,7 @@ for bird in birds:
     page = page.replace("{{BREEDING_SEASON}}",bird["quick_facts"]["breeding_season"])
     page = page.replace("{{CLUTCH_SIZE}}", bird["quick_facts"]["clutch_size"])
     page = page.replace("{{ACTIVITY}}",bird["quick_facts"]["activity"])
-    page = page.replace("{{CONSERVATION_STATUS}}", bird["quick_facts"]                ["conservation_status"])
+    page = page.replace("{{CONSERVATION_STATUS}}", bird["quick_facts"]["conservation_status"])
     page = page.replace("{{CALL}}", bird["quick_facts"]["call"])
     page = page.replace("{{LIFESPAN}}", bird["quick_facts"]["lifespan"])
     page = page.replace("{{NESTING}}",bird["quick_facts"]["nesting"])
