@@ -22,8 +22,7 @@ const bet = document.getElementById("bet");
 const resultDisplay = document.getElementById("result")
 
 MoneyDisplay.textContent = "Seeds: " + money;
-
-play.addEventListener("click", function() {
+function flipCoin() {
      const choices = ["Heads", "Tails", "Third-Face"];
      const result = choices[Math.floor(Math.random() * choices.length)];
      
@@ -59,10 +58,23 @@ play.addEventListener("click", function() {
                  money = 50;
                  MoneyDisplay.textContent = "Seeds: " + money;
                  localStorage.setItem("winnings", money);
-                 }
-               }  
-           
-    });  
+                    }
+             }
+             
+        }    
+                    play.addEventListener("click", flipCoin);
+                    document.addEventListener("keydown", function(event) {
+                     if (event.key === "Enter") {
+                        flipCoin();
+                      }
+                     if (event.key === "/") {
+                      bet.focus();
+                      }
+                     if (event.ctrlKey && event.key === "o") {
+                        event.preventDefault();
+                        guess.focus();
+                        }
+           });  
     const audio = document.getElementById("casinoMusic")
     const button = document.getElementById("muteButton")
     
