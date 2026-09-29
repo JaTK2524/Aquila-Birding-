@@ -68,10 +68,24 @@ if (name.includes(text)) {
    bird.style.display = "";
   } else {
   bird.style.display = "none";
-  }
+     }
+  });
 });
+ 
+document.addEventListener("keydown", function(event) {
+               if(event.key === "/") {
+                event.preventDefault();
+                window.scrollTo(0, -0);
+                search.focus();
+                    }
+                if(event.key === "Escape") {
+                  event.preventDefault();
+                  search.value = "";
+                  search.dispatchEvent(new Event("input"));
+                  search.focus();
+                }
+           }); 
 
- });
  
 
 const birdLinks = document.querySelectorAll(".bird a");
@@ -79,6 +93,7 @@ const birdLinks = document.querySelectorAll(".bird a");
 document.getElementById("random-bird").addEventListener("click", function() {
     const randomBird = birdLinks[Math.floor(Math.random() * birdLinks.length)];
     window.location.href = randomBird.href;
+    
 });
 const button = document.getElementById("muteButton")
 const audio = document.getElementById("birdAudio")
@@ -92,7 +107,7 @@ button.addEventListener("click", function() {
              audio.play();
              button.textContent = "🔊";
              }
-              });
+          });  
 </script>
 </body>
 </html>

@@ -74,6 +74,7 @@ function flipCoin() {
                         event.preventDefault();
                         guess.focus();
                         }
+                        
            });  
     const audio = document.getElementById("casinoMusic")
     const button = document.getElementById("muteButton")
