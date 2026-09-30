@@ -35,9 +35,9 @@
 <section class = "bird_of_the_day"">
     <figure>
     <h2 style = "text-decoration: underline; font-weight:normal;">Bird of the Day</h2>
-    <h3 style = "font-weight:normal;"><a href = "birds/jungle-owlet.html" class = "bod_link">Jungle Owlet</a></h3>
-    <a href = "birds/jungle-owlet.html">
-    <img src = "Images/JungleOwlet1.jpg"
+    <h3 style = "font-weight:normal;"><a href = "birds/budgerigar.html" class = "bod_link">Budgerigar</a></h3>
+    <a href = "birds/budgerigar.html">
+    <img src = "Images/Budgerigar1.jpg"
          class = "bird_of_the_day_image">
          </a>
          </figure>
@@ -97,7 +97,6 @@ document.getElementById("random-bird").addEventListener("click", function() {
 });
 const button = document.getElementById("muteButton")
 const audio = document.getElementById("birdAudio")
-
 button.addEventListener("click", function() {
  audio.muted = !audio.muted;
  
@@ -108,6 +107,11 @@ button.addEventListener("click", function() {
              button.textContent = "🔊";
              }
           });  
+          document.addEventListener("keydown", function(event) {
+             if (event.ctrlKey && event.key.toLowerCase() === "m") {
+                button.click();
+                } 
+               }); 
 </script>
 </body>
 </html>

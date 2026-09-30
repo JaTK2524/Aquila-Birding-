@@ -89,4 +89,9 @@ function flipCoin() {
                   button.textContent = "🔊";
                    }
                     });
+                    document.addEventListener("keydown", function(event) {
+                      if (event.ctrlKey && event.key.toLowerCase() === "m") {
+                           button.click();
+                            }
+                          });  
          
