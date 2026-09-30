@@ -74,6 +74,12 @@ function flipCoin() {
                         event.preventDefault();
                         guess.focus();
                         }
+                     if(event.key === "Escape")  {
+                        event.preventDefault();
+                        bet.value = "";
+                        bet.dispatchEvent(new Event("input"));
+                        bet.focus();
+                        }
                         
            });  
     const audio = document.getElementById("casinoMusic")
@@ -93,5 +99,6 @@ function flipCoin() {
                       if (event.ctrlKey && event.key.toLowerCase() === "m") {
                            button.click();
                             }
+                            
                           });  
          
