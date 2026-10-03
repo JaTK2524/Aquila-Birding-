@@ -286,283 +286,139 @@ text-decoration:none;
 @media(max-width:600px;) {
 @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
-body {
-    background-color: #202821;
-    font-family:"Jost", cursive;
-    font-weight:200px;
-    font-style:italic;
-    margin: 0; 
-    padding: 40px;
-    font-size:29px;
-    cursor:url("../Images/birdy.png"), auto;
-}
-.body{
-    background-image:url("Props/MyBackground1.jpg");
-    background-size:cover;
-    background-position:center;
-    background-repeat:no-repeat;
-    background-attachment:fixed;
-    font-family:"Jost", cursive;
-    font-weight:200px;
-    font-style:italic;
-    font-size:29px;
-    margin: 0;
-    padding: 40px;
+@media (max-width: 600px) {
+
+    body {
+        padding: 15px;
+        font-size: 19px;
     }
 
-.bird-info {
-    max-width: 1000px;
-    margin: auto;
-    background-color: rgba(232, 223, 197,0.85);
-    padding: 35px;
-    border-radius: 15px;
-    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.70);
-    display:flex;
-    align-items:center;
-    flex-direction: column;
-    gap: 30px;
+    .body {
+        padding: 15px;
+        font-size: 19px;
     }
 
-.bird-info img {
-    width: 300px;
-    height: auto;
-    
-}
-img {
-    border-radius: 15px;
-    border: 1px solid black;
-    transition: transform 1.0s;
-    box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.80);
-}
-img:hover{
-transform: scale(1.10);
-}
-   
+    .bird-info {
+        width: auto;
+        max-width: 100%;
+        padding: 20px;
+        gap: 20px;
+        box-sizing: border-box;
+    }
 
-h1 {
-    color: #355E3B;
-    font-size: 42px;
-    margin-bottom: 5px;
-    text-align:center;
-    font-weight:normal;
-}
+    .bird-info img {
+        width: 100%;
+        max-width: 250px;
+        height: auto;
+    }
 
-h2, h3 {
-    color: #4D6A52;
-    font-weight:normal;
-}
-p {
-    font-size: 19px;
-    line-height: 1.6;
-    color:black;
-}
+    h1 {
+        font-size: 32px;
+    }
 
-.scientific {
-    font-style: italic;
-}
-a{
-  color:black;
-  text-decoration:underline;
-  transition: all 0.3s;
-  }
-  a:visited{
-            color:black;
-             }
-             a:hover{
-                   color:dimgray;
-                   cursor:pointer;
-                      }
-                      li{
-                         margin-bottom:25px;
-                         line-height: 1.6;
-                         color: black;
-                          }
-                          ul{
-                              list-style-type:disc;
-                               }
-                               .navbar{
-                                    text-align:center;
-                                    margin:30px;
-                                     }
-                                     .navbar a{
-                                     text-decoration:none;
-                                     }
-                                     .navbar2{
-                                     margin-bottom:20px;
-                                     text-align:center;
-                                     color:#A7A3AE;
-                                     }
-                                     .navbar2 a {
-                                    color:#A7A3AE;
-                                    text-decoration:none;
-                                    }
-                                    .navbar2 a:hover{
-                                    color:#8A8593;
-                                    }
+    h2 {
+        font-size: 25px;
+    }
 
-                                     
-                                     button{
-                                     width: 100px;
-                                     height: 50px;
-                                     background-color:#55A967;
-                                     transition: transform 0.15s;
-                                     border-radius:30px;
-                                     font-size:21px;
-                                     font-family:"Edu SA Beginner", cursive;
-                                     font-style:italic;
-                                     }
-                                     button:hover{
-                                    background-color:#4E944F;
-                                    transform: scale(1.09);
-                                    cursor:crosshair;
-                                    }
-                                    .search_bar{
-                                    border-radius:15px;
-                                    height:50px;
-                                    width:400px;
-                                    font-size:25px;
-                                    font-family:'Jost', cursive;
-                                    }
-                                    .search_bar:hover{
-                                    cursor:text;
-                                    }
-                                    .previous_page{
-                                     width: 150px;
-                                     height: 50px;
-                                     transition: transform 0.15s;
-                                     border-radius:30px;
-                                     font-family:"Edu SA Beginner", cursive;
-                                     }
-.index_heading{
-text-decoration:underline;
-}
-.bird_of_the_day_image{
-width: 400px;
-height:auto;
-}
-.index_layout{
-display: flex;
-align-items: flex-start;
+    h3 {
+        font-size: 22px;
+    }
 
-}
-.bird_list{
-flex:1;
-}
-.bird_of_the_day{
-width: 480px;
-}
-.bird_site_headings{
-font-weight:bold;
-}
-.random_button{
-color:black;
-background-color:#5F6A32;
-width:100px;
-height:60px;
-transition: all 0.90s;
-}
-.random_button:hover{
-color:black;
-background-color:#4A5926;
-transform:scale(1.09);
-}
-.about_us_link{
-text-decoration:underline;
-}
-.logo{
-transform:none;
-border:none;
-width: 200px;
-height:auto;
-box-shadow:none;
-}
-.logo:hover{
-transform:none;
-}
-.logo_box{
-display:flex;
-justify-content:center;
-align-items:center;
-margin-top:40px;
-flex-direction:column;
-}
-.index_heading{
-margin-top:2px;
-}
-.audio_button{
-background-color:#66806B;
-}
-.audio_button:hover{
-background-color:#40564A;
-}
-.featured_bird{
-width:500px;
-height:500px;
-}
-.featured_bird img{
-width:100%;
-height:300px;
-}
-.right_column{
-display:flex;
-flex-direction: column;
-gap:10px;
-}
-.casino_layout{
-max-width: 1000px;
-height:auto;
-margin: auto;
-background-color: rgba(232, 223, 197,0.95);
-padding: 35px;
-border-radius: 15px;
-box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.70);
-display:flex;
-align-items:center;
-flex-direction: column;
-gap: 30px;
-}
-.casino_bet{
-width: 200px;
-height:auto;
-font-family:'Jost';
-font-size:19px;
-padding:10px;
-border-radius:15px;
-}
-.casino_result{
-max-width:800px;
-margin:auto;
-background-color:#F2E7A1;
-border-radius:25px;
-padding:25px;
-}
-.casino_guess{
-width:200px;
-height:auto;
-font-family:'Jost';
-font-size:19px;
-padding:10px;
-border-radius:15px;
-}
-.casino_playbutton{
-background-color:#A6CED3;
-}
-.casino_body{
-background-image:url("Props/casino_background.jpg");
-background-attachment:fixed;
-background-size:cover;
-background-repeat:no-repeat;
-background-position:center;
-}
-.featured_bird_text h3{
-  transition: all 0.3s;
-  text-decoration:none;
-  color:black;
-}
-.featured_bird_text h3:hover{
-  color:dimgray;
-}
-.bod_link{
-text-decoration:none;
-   }
+    p {
+        font-size: 19px;
+        line-height: 1.5;
+    }
+
+    li {
+        margin-bottom: 15px;
+        line-height: 1.5;
+    }
+
+    .navbar {
+        margin-bottom: 15px;
+    }
+
+    .navbar2 {
+        margin-bottom: 15px;
+    }
+
+    button {
+        width: 90px;
+        height: 45px;
+        font-size: 18px;
+    }
+
+    .previous_page {
+        width: 120px;
+        height: 45px;
+    }
+
+    .search_bar {
+        width: 100%;
+        max-width: 350px;
+        height: 45px;
+        font-size: 20px;
+        box-sizing: border-box;
+    }
+
+    .bird_of_the_day_image {
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+    }
+
+    .index_layout {
+        flex-direction: column;
+    }
+
+    .bird_list {
+        width: 100%;
+    }
+
+    .bird_of_the_day {
+        width: 100%;
+    }
+
+    .featured_bird {
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+    }
+
+    .featured_bird img {
+        width: 100%;
+        height: auto;
+    }
+
+    .logo {
+        width: 150px;
+        height: auto;
+    }
+
+    .logo_box {
+        margin-top: 20px;
+    }
+
+    .casino_layout {
+        width: 100%;
+        max-width: 100%;
+        padding: 20px;
+        gap: 20px;
+        box-sizing: border-box;
+    }
+
+    .casino_bet,
+    .casino_guess {
+        width: 170px;
+        font-size: 17px;
+        padding: 8px;
+    }
+
+    .casino_result {
+        width: 100%;
+        max-width: 100%;
+        padding: 18px;
+        box-sizing: border-box;
+    }
+
 }
