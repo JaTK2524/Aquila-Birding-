@@ -27,7 +27,7 @@ body {
 .bird-info {
     max-width: 1000px;
     margin: auto;
-    background-color: #E8DFC5;
+    background-color: rgba(232, 223, 197,0.85);
     padding: 35px;
     border-radius: 15px;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.70);
@@ -218,8 +218,8 @@ width:500px;
 height:500px;
 }
 .featured_bird img{
-width:90%;
-height:auto;
+width:100%;
+height:300px;
 }
 .right_column{
 display:flex;
@@ -278,7 +278,6 @@ background-position:center;
   color:black;
 }
 .featured_bird_text h3:hover{
-  text-decoration:none;
   color:dimgray;
 }
 .bod_link{
