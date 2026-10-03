@@ -272,11 +272,14 @@ background-size:cover;
 background-repeat:no-repeat;
 background-position:center;
 }
-.featured_link{
-text-decoration:none;
+.featured_bird_text h3{
+  transition: all 0.3s;
+  text-decoration:none;
+  color:black;
 }
-.featured_link:hover{
-color:dimgray;
+.featured_bird_text h3:hover{
+  text-decoration:none;
+  color:dimgray;
 }
 .bod_link{
 text-decoration:none;
