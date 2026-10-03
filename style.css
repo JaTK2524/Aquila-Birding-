@@ -349,10 +349,10 @@ text-decoration:none;
     }
 
     .search_bar {
-        width: 100%;
+        width: 60%;
         max-width: 350px;
         height: 45px;
-        font-size: 20px;
+        font-size: 25px;
         box-sizing: border-box;
     }
 
