@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-    background-color: red;
     font-family:"Jost", cursive;
     font-weight:200px;
     font-style:italic;
@@ -283,13 +282,10 @@ background-position:center;
 .bod_link{
 text-decoration:none;
 }
-@media(max-width:600px) {
-@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
-@media (max-width: 600px) {
+ @media (max-width: 600px) {
 
     body {
-        background-color:red;
+        background-color:blue;
         padding: 15px;
         font-size: 19px;
     }
