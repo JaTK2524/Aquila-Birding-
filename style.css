@@ -283,7 +283,7 @@ background-position:center;
 .bod_link{
 text-decoration:none;
 }
-@media(max-width:700px;) {
+@media(max-width:600px) {
 @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 @media (max-width: 600px) {
