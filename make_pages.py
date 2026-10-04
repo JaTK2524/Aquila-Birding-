@@ -4,7 +4,7 @@ import datetime
 template = open("template.html", "r").read()
 
 birds = [
-{
+   {
     "name": "Alexandrine Parakeet",
     "scientific": "Psittacula eupatria",
     "description": "Recognising the Alexandrine Parakeet starts with a large green parakeet with a red bill, long tail and a dark neck collar in adult males. The species uses woodland, forest edges, farmland and gardens and takes seeds, fruits, flowers and grains as its principal food. It often travels in noisy flocks and feeds in trees. Although it may be familiar in suitable areas, its behaviour can be surprisingly varied, especially outside the breeding season.",
@@ -28,10 +28,9 @@ birds = [
     },
     "similar_birds": "Alexandrine Parakeet is best separated from Rose-Ringed Parakeet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Rose-Ringed Parakeet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Plum-headed Parakeet can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -59,10 +58,9 @@ birds = [
     },
     "similar_birds": "American Goldfinch is best separated from Lesser Goldfinch by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Lesser Goldfinch, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Pine Siskin can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -90,10 +88,9 @@ birds = [
     },
     "similar_birds": "American Robin is best separated from Varied Thrush by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Varied Thrush, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Eastern Bluebird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -121,10 +118,10 @@ birds = [
     },
     "similar_birds": "Ashy Drongo is best separated from Black Drongo by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black Drongo, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey Drongo can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -152,10 +149,10 @@ birds = [
     },
     "similar_birds": "Ashy Prinia is best separated from Plain Prinia by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Plain Prinia, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey-breasted Prinia can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -183,10 +180,10 @@ birds = [
     },
     "similar_birds": "Asian Brown Flycatcher is best separated from Dark-sided Flycatcher by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Dark-sided Flycatcher, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey-streaked Flycatcher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -214,10 +211,10 @@ birds = [
     },
     "similar_birds": "Asian Fairy-bluebird is best separated from Asian Glossy Starling by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Asian Glossy Starling, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-naped Blue Flycatcher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -245,10 +242,10 @@ birds = [
     },
     "similar_birds": "Asian Koel is best separated from Greater Coucal by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Greater Coucal, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Hawk-Cuckoo can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -276,10 +273,10 @@ birds = [
     },
     "similar_birds": "Asian-Green Bee-eater is best separated from Blue-tailed Bee-eater by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Blue-tailed Bee-eater, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Blue-throated Bee-eater can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "Handbook of the Birds of the World / BirdLife International",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -307,10 +304,9 @@ birds = [
     },
     "similar_birds": "Australian Brush-turkey is best separated from Malleefowl by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Malleefowl, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Orange-footed Scrubfowl can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -338,10 +334,9 @@ birds = [
     },
     "similar_birds": "Australian Darter is best separated from Oriental Darter by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Oriental Darter, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Cormorant can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -369,10 +364,9 @@ birds = [
     },
     "similar_birds": "Australian Golden Whistler is best separated from Rufous Whistler by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Rufous Whistler, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey Shrike-thrush can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -400,10 +394,9 @@ birds = [
     },
     "similar_birds": "Australian Ibis is best separated from Straw-necked Ibis by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Straw-necked Ibis, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Glossy Ibis can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -431,10 +424,9 @@ birds = [
     },
     "similar_birds": "Australian King-Parrot is best separated from Crimson Rosella by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Crimson Rosella, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Eastern Rosella can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -462,10 +454,9 @@ birds = [
     },
     "similar_birds": "Australian Magpie is best separated from Pied Butcherbird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Pied Butcherbird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Pied Currawong can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -493,10 +484,9 @@ birds = [
     },
     "similar_birds": "Australian Pelican is best separated from Australian Gannet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Australian Gannet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Brown Pelican can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -524,10 +514,9 @@ birds = [
     },
     "similar_birds": "Australian Raven is best separated from Little Raven by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Little Raven, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Forest Raven can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -555,10 +544,9 @@ birds = [
     },
     "similar_birds": "Australian Wood Duck is best separated from Pacific Black Duck by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Pacific Black Duck, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Chestnut Teal can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -586,10 +574,9 @@ birds = [
     },
     "similar_birds": "Azure-winged Magpie is best separated from Eurasian Magpie by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Eurasian Magpie, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Iberian Magpie can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -617,10 +604,9 @@ birds = [
     },
     "similar_birds": "Baltimore Oriole is best separated from Orchard Oriole by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Orchard Oriole, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Scarlet Tanager can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -648,10 +634,10 @@ birds = [
     },
     "similar_birds": "Barn Owl is best separated from Short-eared Owl by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Short-eared Owl, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Owl can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -679,10 +665,9 @@ birds = [
     },
     "similar_birds": "Bay-Backed Shrike is best separated from Long-tailed Shrike by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Long-tailed Shrike, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Brown Shrike can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -710,10 +695,10 @@ birds = [
     },
     "similar_birds": "Black Bulbul is best separated from Red-vented Bulbul by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Red-vented Bulbul, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-crested Bulbul can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -741,10 +726,10 @@ birds = [
     },
     "similar_birds": "Black Drongo is best separated from Ashy Drongo by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Ashy Drongo, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-bellied Drongo can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -772,10 +757,10 @@ birds = [
     },
     "similar_birds": "Black Kite is best separated from Brahminy Kite by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Brahminy Kite, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-winged Kite can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -803,10 +788,9 @@ birds = [
     },
     "similar_birds": "Black Redstart is best separated from Common Redstart by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Redstart, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-throated Thrush can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -834,10 +818,9 @@ birds = [
     },
     "similar_birds": "Black-breasted Weaver is best separated from Baya Weaver by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Baya Weaver, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Streaked Weaver can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -865,10 +848,9 @@ birds = [
     },
     "similar_birds": "Black-Crowned Night Heron is best separated from Indian Pond Heron by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Indian Pond Heron, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey Heron can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -896,10 +878,9 @@ birds = [
     },
     "similar_birds": "Black-faced Cuckooshrike is best separated from White-bellied Cuckooshrike by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-bellied Cuckooshrike, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-winged Cuckooshrike can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -927,10 +908,9 @@ birds = [
     },
     "similar_birds": "Black-Headed Ibis is best separated from Black-faced Ibis by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black-faced Ibis, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Red-naped Ibis can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -958,10 +938,9 @@ birds = [
     },
     "similar_birds": "Black-Hooded Oriole is best separated from Black-naped Oriole by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black-naped Oriole, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Golden Oriole can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -989,10 +968,9 @@ birds = [
     },
     "similar_birds": "Black-naped Monarch is best separated from Indian Paradise Flycatcher by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Indian Paradise Flycatcher, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-naped Blue Flycatcher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1020,10 +998,9 @@ birds = [
     },
     "similar_birds": "Black-Naped Oriole is best separated from Black-hooded Oriole by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black-hooded Oriole, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Golden Oriole can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1051,10 +1028,9 @@ birds = [
     },
     "similar_birds": "Black-Rumped Flameback is best separated from Lesser Goldenback by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Lesser Goldenback, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Greater Flameback can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1082,10 +1058,10 @@ birds = [
     },
     "similar_birds": "Black-Winged Kite is best separated from Black Kite by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black Kite, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Brahminy Kite can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -1113,10 +1089,9 @@ birds = [
     },
     "similar_birds": "Black-winged Stilt is best separated from Pied Stilt by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Pied Stilt, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Avocet can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1144,10 +1119,9 @@ birds = [
     },
     "similar_birds": "Blue Jay is best separated from Steller's Jay by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Steller's Jay, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Canada Jay can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1175,10 +1149,10 @@ birds = [
     },
     "similar_birds": "Blue-eared Kingfisher is best separated from Common Kingfisher by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Kingfisher, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-throated Kingfisher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1206,10 +1180,10 @@ birds = [
     },
     "similar_birds": "Blue-faced Honeyeater is best separated from Noisy Miner by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Noisy Miner, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Wattlebird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1237,10 +1211,10 @@ birds = [
     },
     "similar_birds": "Blue-Tailed Bee-Eater is best separated from Asian Green Bee-eater by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Asian Green Bee-eater, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Blue-throated Bee-eater can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1268,10 +1242,10 @@ birds = [
     },
     "similar_birds": "Blue-throated Bee-eater is best separated from Blue-tailed Bee-eater by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Blue-tailed Bee-eater, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Asian Green Bee-eater can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1299,10 +1273,10 @@ birds = [
     },
     "similar_birds": "Brahminy Kite is best separated from Black Kite by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black Kite, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-bellied Sea-Eagle can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -1330,10 +1304,9 @@ birds = [
     },
     "similar_birds": "Brahminy Starling is best separated from Common Myna by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Myna, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Pied Starling can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1361,10 +1334,9 @@ birds = [
     },
     "similar_birds": "Brolga is best separated from Sarus Crane by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Sarus Crane, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Crane can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1392,10 +1364,10 @@ birds = [
     },
     "similar_birds": "Brown Fish Owl is best separated from Spot-bellied Eagle-Owl by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Spot-bellied Eagle-Owl, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Brown Boobook can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1423,10 +1395,10 @@ birds = [
     },
     "similar_birds": "Brown Pelican is best separated from American White Pelican by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with American White Pelican, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Australian Pelican can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1454,10 +1426,10 @@ birds = [
     },
     "similar_birds": "Brown Rock Chat is best separated from Indian Robin by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Indian Robin, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black Redstart can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1485,10 +1457,10 @@ birds = [
     },
     "similar_birds": "Brown-Headed Barbet is best separated from Coppersmith Barbet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Coppersmith Barbet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Lineated Barbet can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "Handbook of the Birds of the World / BirdLife International",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1516,10 +1488,9 @@ birds = [
     },
     "similar_birds": "Budgerigar is best separated from Elegant Parrot by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Elegant Parrot, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Bourke's Parrot can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1547,10 +1518,9 @@ birds = [
     },
     "similar_birds": "Cattle Egret is best separated from Little Egret by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Little Egret, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Pond Heron can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1578,10 +1548,9 @@ birds = [
     },
     "similar_birds": "Cedar Waxwing is best separated from Bohemian Waxwing by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Bohemian Waxwing, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. European Starling can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1609,10 +1578,9 @@ birds = [
     },
     "similar_birds": "Chestnut-bellied Sandgrouse is best separated from Painted Sandgrouse by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Painted Sandgrouse, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-bellied Sandgrouse can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1640,10 +1608,9 @@ birds = [
     },
     "similar_birds": "Cockatiel is best separated from Galah by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Galah, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Budgerigar can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1671,10 +1638,9 @@ birds = [
     },
     "similar_birds": "Common Chaffinch is best separated from European Greenfinch by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with European Greenfinch, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. European Goldfinch can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1702,10 +1668,10 @@ birds = [
     },
     "similar_birds": "Common Hawk-Cuckoo is best separated from Asian Koel by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Asian Koel, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Eurasian Cuckoo can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -1733,10 +1699,9 @@ birds = [
     },
     "similar_birds": "Common Hoopoe is best separated from Eurasian Hoopoe by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Eurasian Hoopoe, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Roller can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1764,10 +1729,9 @@ birds = [
     },
     "similar_birds": "Common Iora is best separated from Common Leafbird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Leafbird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Golden-fronted Leafbird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1795,10 +1759,10 @@ birds = [
     },
     "similar_birds": "Common Kestrel is best separated from Merlin by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Merlin, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Peregrine Falcon can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -1826,10 +1790,10 @@ birds = [
     },
     "similar_birds": "Common Kingfisher is best separated from White-throated Kingfisher by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-throated Kingfisher, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Blue-eared Kingfisher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "Handbook of the Birds of the World / BirdLife International",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -1857,10 +1821,10 @@ birds = [
     },
     "similar_birds": "Common Myna is best separated from Brahminy Starling by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Brahminy Starling, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Pied Starling can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1888,10 +1852,9 @@ birds = [
     },
     "similar_birds": "Common Nightingale is best separated from European Robin by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with European Robin, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Bluethroat can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1919,10 +1882,9 @@ birds = [
     },
     "similar_birds": "Common Rosefinch is best separated from Scarlet Finch by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Scarlet Finch, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. House Finch can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1950,10 +1912,9 @@ birds = [
     },
     "similar_birds": "Common Sandpiper is best separated from Green Sandpiper by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Green Sandpiper, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Wood Sandpiper can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -1981,10 +1942,9 @@ birds = [
     },
     "similar_birds": "Common Stonechat is best separated from European Stonechat by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with European Stonechat, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Whinchat can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2012,10 +1972,9 @@ birds = [
     },
     "similar_birds": "Common Tailorbird is best separated from Ashy Prinia by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Ashy Prinia, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Plain Prinia can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2043,10 +2002,10 @@ birds = [
     },
     "similar_birds": "Coppersmith Barbet is best separated from Brown-headed Barbet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Brown-headed Barbet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-cheeked Barbet can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "Handbook of the Birds of the World / BirdLife International",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2074,10 +2033,9 @@ birds = [
     },
     "similar_birds": "Crested Bunting is best separated from Black-headed Bunting by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black-headed Bunting, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey-necked Bunting can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2105,10 +2063,9 @@ birds = [
     },
     "similar_birds": "Crested Pigeon is best separated from Spotted Dove by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Spotted Dove, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Bronzewing can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2136,10 +2093,10 @@ birds = [
     },
     "similar_birds": "Crested Serpent Eagle is best separated from Crested Hawk-Eagle by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Crested Hawk-Eagle, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Changeable Hawk-Eagle can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -2167,10 +2124,9 @@ birds = [
     },
     "similar_birds": "Crimson Rosella is best separated from Eastern Rosella by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Eastern Rosella, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Australian King-Parrot can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2198,10 +2154,9 @@ birds = [
     },
     "similar_birds": "Crimson Sunbird is best separated from Purple Sunbird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Purple Sunbird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Purple-rumped Sunbird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2229,10 +2184,9 @@ birds = [
     },
     "similar_birds": "Eastern Rosella is best separated from Crimson Rosella by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Crimson Rosella, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Pale-headed Rosella can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2260,10 +2214,9 @@ birds = [
     },
     "similar_birds": "Eastern Spinebill is best separated from Eastern Yellow Robin by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Eastern Yellow Robin, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. New Holland Honeyeater can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2291,10 +2244,9 @@ birds = [
     },
     "similar_birds": "Eastern Yellow Robin is best separated from Scarlet Robin by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Scarlet Robin, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-browed Robin can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2322,10 +2274,9 @@ birds = [
     },
     "similar_birds": "Emu is best separated from Southern Cassowary by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Southern Cassowary, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Australian Bustard can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2353,10 +2304,10 @@ birds = [
     },
     "similar_birds": "Eurasian Coot is best separated from Common Moorhen by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Moorhen, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black Coot can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2384,10 +2335,10 @@ birds = [
     },
     "similar_birds": "Eurasian Jay is best separated from Eurasian Magpie by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Eurasian Magpie, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Western Jackdaw can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2415,10 +2366,10 @@ birds = [
     },
     "similar_birds": "Eurasian Magpie is best separated from Eurasian Jay by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Eurasian Jay, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Azure-winged Magpie can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2446,10 +2397,9 @@ birds = [
     },
     "similar_birds": "European Bee-eater is best separated from Asian Green Bee-eater by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Asian Green Bee-eater, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. European Roller can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2477,10 +2427,9 @@ birds = [
     },
     "similar_birds": "European Goldfinch is best separated from European Greenfinch by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with European Greenfinch, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Chaffinch can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2508,10 +2457,9 @@ birds = [
     },
     "similar_birds": "European Greenfinch is best separated from European Goldfinch by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with European Goldfinch, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Chaffinch can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2539,10 +2487,9 @@ birds = [
     },
     "similar_birds": "European Robin is best separated from Common Nightingale by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Nightingale, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Bluethroat can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2570,10 +2517,9 @@ birds = [
     },
     "similar_birds": "European Roller is best separated from European Bee-eater by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with European Bee-eater, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Roller can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2601,10 +2547,9 @@ birds = [
     },
     "similar_birds": "European Serin is best separated from European Goldfinch by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with European Goldfinch, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. European Greenfinch can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2632,10 +2577,9 @@ birds = [
     },
     "similar_birds": "European Stonechat is best separated from Common Stonechat by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Stonechat, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Whinchat can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2663,10 +2607,9 @@ birds = [
     },
     "similar_birds": "Galah is best separated from Sulphur-crested Cockatoo by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Sulphur-crested Cockatoo, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Corella can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -2694,10 +2637,10 @@ birds = [
     },
     "similar_birds": "Golden Eagle is best separated from White-tailed Eagle by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-tailed Eagle, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Steppe Eagle can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -2725,10 +2668,9 @@ birds = [
     },
     "similar_birds": "Golden Pheasant is best separated from Lady Amherst's Pheasant by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Lady Amherst's Pheasant, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Silver Pheasant can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2756,10 +2698,9 @@ birds = [
     },
     "similar_birds": "Golden-Fronted Leafbird is best separated from Common Iora by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Iora, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Blue-winged Leafbird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2787,10 +2728,10 @@ birds = [
     },
     "similar_birds": "Great Hornbill is best separated from Malabar Pied Hornbill by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Malabar Pied Hornbill, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Grey Hornbill can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "Handbook of the Birds of the World / BirdLife International",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2818,10 +2759,10 @@ birds = [
     },
     "similar_birds": "Great Spotted Woodpecker is best separated from Lesser Spotted Woodpecker by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Lesser Spotted Woodpecker, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Middle Spotted Woodpecker can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "Handbook of the Birds of the World / BirdLife International",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2849,10 +2790,9 @@ birds = [
     },
     "similar_birds": "Greater Coucal is best separated from Asian Koel by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Asian Koel, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Greater Racket-tailed Drongo can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2880,10 +2820,9 @@ birds = [
     },
     "similar_birds": "Greater Flamingo is best separated from Lesser Flamingo by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Lesser Flamingo, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Chilean Flamingo can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2911,10 +2850,9 @@ birds = [
     },
     "similar_birds": "Greater Racket-Tailed Drongo is best separated from Lesser Racket-tailed Drongo by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Lesser Racket-tailed Drongo, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black Drongo can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2942,10 +2880,9 @@ birds = [
     },
     "similar_birds": "Grey Butcherbird is best separated from Pied Butcherbird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Pied Butcherbird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Australian Magpie can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -2973,10 +2910,9 @@ birds = [
     },
     "similar_birds": "Grey Francolin is best separated from Black Francolin by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black Francolin, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Red-legged Partridge can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3004,10 +2940,9 @@ birds = [
     },
     "similar_birds": "Grey Heron is best separated from Purple Heron by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Purple Heron, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Great Egret can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3035,10 +2970,9 @@ birds = [
     },
     "similar_birds": "Grey-Breasted Prinia is best separated from Ashy Prinia by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Ashy Prinia, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Plain Prinia can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3066,10 +3000,10 @@ birds = [
     },
     "similar_birds": "Grey-Headed Fish Eagle is best separated from Lesser Fish Eagle by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Lesser Fish Eagle, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Pallas's Fish Eagle can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -3097,10 +3031,10 @@ birds = [
     },
     "similar_birds": "Griffon Vulture is best separated from Cinereous Vulture by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Cinereous Vulture, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Himalayan Vulture can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -3128,10 +3062,9 @@ birds = [
     },
     "similar_birds": "Himalayan Monal is best separated from Kalij Pheasant by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Kalij Pheasant, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Satyr Tragopan can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3159,10 +3092,9 @@ birds = [
     },
     "similar_birds": "House Crow is best separated from Large-billed Crow by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Large-billed Crow, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Jungle Crow can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3190,10 +3122,9 @@ birds = [
     },
     "similar_birds": "House Sparrow is best separated from Italian Sparrow by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Italian Sparrow, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Tree Sparrow can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3221,10 +3152,10 @@ birds = [
     },
     "similar_birds": "Indian Bush Lark is best separated from Jerdon's Bush Lark by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Jerdon's Bush Lark, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Rufous-tailed Lark can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3252,10 +3183,10 @@ birds = [
     },
     "similar_birds": "Indian Cormorant is best separated from Little Cormorant by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Little Cormorant, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Great Cormorant can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3283,10 +3214,10 @@ birds = [
     },
     "similar_birds": "Indian Courser is best separated from Small Pratincole by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Small Pratincole, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Oriental Pratincole can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3314,10 +3245,10 @@ birds = [
     },
     "similar_birds": "Indian Golden Oriole is best separated from Black-naped Oriole by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black-naped Oriole, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-hooded Oriole can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3345,10 +3276,10 @@ birds = [
     },
     "similar_birds": "Indian Grey Hornbill is best separated from Malabar Pied Hornbill by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Malabar Pied Hornbill, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Scimitar Babbler can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3376,10 +3307,10 @@ birds = [
     },
     "similar_birds": "Indian Openbill is best separated from Asian Woollyneck by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Asian Woollyneck, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Painted Stork can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3407,10 +3338,10 @@ birds = [
     },
     "similar_birds": "Indian Paradise Flycatcher is best separated from Black-naped Monarch by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black-naped Monarch, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Asian Paradise Flycatcher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3438,10 +3369,10 @@ birds = [
     },
     "similar_birds": "Indian Peafowl is best separated from Green Peafowl by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Green Peafowl, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Golden Pheasant can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3469,10 +3400,10 @@ birds = [
     },
     "similar_birds": "Indian Pied Starling is best separated from Common Myna by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Myna, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Brahminy Starling can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3500,10 +3431,10 @@ birds = [
     },
     "similar_birds": "Indian Pitta is best separated from Hooded Pitta by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Hooded Pitta, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Blue-winged Pitta can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3531,10 +3462,10 @@ birds = [
     },
     "similar_birds": "Indian Pond Heron is best separated from Chinese Pond Heron by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Chinese Pond Heron, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Cattle Egret can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3562,10 +3493,10 @@ birds = [
     },
     "similar_birds": "Indian Robin is best separated from Brown Rock Chat by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Brown Rock Chat, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Pied Bushchat can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3593,10 +3524,10 @@ birds = [
     },
     "similar_birds": "Indian Roller is best separated from European Roller by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with European Roller, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-throated Kingfisher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3624,10 +3555,10 @@ birds = [
     },
     "similar_birds": "Indian Silverbill is best separated from White-rumped Munia by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-rumped Munia, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Scaly-breasted Munia can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3655,10 +3586,10 @@ birds = [
     },
     "similar_birds": "Indian Spot-billed Duck is best separated from Pacific Black Duck by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Pacific Black Duck, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Gadwall can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3686,10 +3617,10 @@ birds = [
     },
     "similar_birds": "Indian Thick-knee is best separated from Great Thick-knee by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Great Thick-knee, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Stone-curlew can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3717,10 +3648,9 @@ birds = [
     },
     "similar_birds": "Italian Sparrow is best separated from House Sparrow by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with House Sparrow, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Spanish Sparrow can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3748,10 +3678,10 @@ birds = [
     },
     "similar_birds": "Jungle Babbler is best separated from Common Babbler by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Babbler, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Large Grey Babbler can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3779,10 +3709,10 @@ birds = [
     },
     "similar_birds": "Jungle Owlet is best separated from Spotted Owlet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Spotted Owlet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Brown Fish Owl can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3810,10 +3740,9 @@ birds = [
     },
     "similar_birds": "Laughing Dove is best separated from Spotted Dove by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Spotted Dove, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Eurasian Collared Dove can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3841,10 +3770,9 @@ birds = [
     },
     "similar_birds": "Laughing Kookaburra is best separated from Blue-winged Kookaburra by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Blue-winged Kookaburra, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Sacred Kingfisher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -3872,10 +3800,9 @@ birds = [
     },
     "similar_birds": "Lesser Adjutant is best separated from Greater Adjutant by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Greater Adjutant, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Asian Woollyneck can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3903,10 +3830,9 @@ birds = [
     },
     "similar_birds": "Lesser Whistling Duck is best separated from Lesser Whistling Duck by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Lesser Whistling Duck, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Spot-billed Duck can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3934,10 +3860,9 @@ birds = [
     },
     "similar_birds": "Little Cormorant is best separated from Indian Cormorant by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Indian Cormorant, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Great Cormorant can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3965,10 +3890,9 @@ birds = [
     },
     "similar_birds": "Little Egret is best separated from Cattle Egret by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Cattle Egret, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Great Egret can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -3996,10 +3920,9 @@ birds = [
     },
     "similar_birds": "Little Grebe is best separated from Eurasian Coot by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Eurasian Coot, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Australasian Grebe can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -4027,10 +3950,9 @@ birds = [
     },
     "similar_birds": "Little Ringed Plover is best separated from Kentish Plover by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Kentish Plover, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Ringed Plover can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -4058,10 +3980,9 @@ birds = [
     },
     "similar_birds": "Long-Tailed Shrike is best separated from Bay-backed Shrike by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Bay-backed Shrike, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Brown Shrike can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -4089,10 +4010,9 @@ birds = [
     },
     "similar_birds": "Magpie-lark is best separated from Australian Magpie by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Australian Magpie, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Willie Wagtail can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4120,10 +4040,10 @@ birds = [
     },
     "similar_birds": "Malabar Pied Hornbill is best separated from Great Hornbill by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Great Hornbill, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Grey Hornbill can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4151,10 +4071,10 @@ birds = [
     },
     "similar_birds": "Malabar Whistling Thrush is best separated from Blue Whistling Thrush by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Blue Whistling Thrush, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Orange-headed Thrush can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4182,10 +4102,9 @@ birds = [
     },
     "similar_birds": "Masked Lapwing is best separated from Red-wattled Lapwing by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Red-wattled Lapwing, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Northern Lapwing can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4213,10 +4132,9 @@ birds = [
     },
     "similar_birds": "Noisy Miner is best separated from Common Myna by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Myna, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Blue-faced Honeyeater can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4244,10 +4162,9 @@ birds = [
     },
     "similar_birds": "Northern Cardinal is best separated from Pyrrhuloxia by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Pyrrhuloxia, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Summer Tanager can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4275,10 +4192,10 @@ birds = [
     },
     "similar_birds": "Northern Hawk-Owl is best separated from Short-eared Owl by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Short-eared Owl, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Northern Pygmy-Owl can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -4306,10 +4223,9 @@ birds = [
     },
     "similar_birds": "Northern Lapwing is best separated from Red-wattled Lapwing by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Red-wattled Lapwing, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Ringed Plover can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4337,10 +4253,9 @@ birds = [
     },
     "similar_birds": "Orange-headed Thrush is best separated from Malabar Whistling Thrush by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Malabar Whistling Thrush, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Orange-headed Ground Thrush can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -4368,10 +4283,10 @@ birds = [
     },
     "similar_birds": "Oriental Darter is best separated from Australian Darter by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Australian Darter, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Cormorant can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4399,10 +4314,10 @@ birds = [
     },
     "similar_birds": "Oriental Magpie-Robin is best separated from White-rumped Shama by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-rumped Shama, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Robin can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4430,10 +4345,10 @@ birds = [
     },
     "similar_birds": "Oriental Skylark is best separated from Bengal Bush Lark by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Bengal Bush Lark, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Bush Lark can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4461,10 +4376,10 @@ birds = [
     },
     "similar_birds": "Oriental Turtle Dove is best separated from Spotted Dove by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Spotted Dove, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Laughing Dove can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4492,10 +4407,10 @@ birds = [
     },
     "similar_birds": "Oriental White-Eye is best separated from Indian White-eye by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Indian White-eye, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Oriental Leafbird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4523,10 +4438,10 @@ birds = [
     },
     "similar_birds": "Pacific Black Duck is best separated from Australian Wood Duck by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Australian Wood Duck, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Spot-billed Duck can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4554,10 +4469,9 @@ birds = [
     },
     "similar_birds": "Painted Stork is best separated from Asian Openbill by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Asian Openbill, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Woolly-necked Stork can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -4585,10 +4499,10 @@ birds = [
     },
     "similar_birds": "Pied Bushchat is best separated from Common Stonechat by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Stonechat, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Robin can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4616,10 +4530,10 @@ birds = [
     },
     "similar_birds": "Pied Cuckoo is best separated from Common Hawk-Cuckoo by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Hawk-Cuckoo, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Asian Koel can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4647,10 +4561,9 @@ birds = [
     },
     "similar_birds": "Pied Currawong is best separated from Australian Magpie by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Australian Magpie, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Australian Raven can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4678,10 +4591,10 @@ birds = [
     },
     "similar_birds": "Pied Kingfisher is best separated from White-throated Kingfisher by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-throated Kingfisher, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Kingfisher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4709,10 +4622,10 @@ birds = [
     },
     "similar_birds": "Pied Oystercatcher is best separated from Sooty Oystercatcher by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Sooty Oystercatcher, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black Oystercatcher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4740,10 +4653,9 @@ birds = [
     },
     "similar_birds": "Plain Prinia is best separated from Ashy Prinia by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Ashy Prinia, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey-breasted Prinia can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -4771,10 +4683,9 @@ birds = [
     },
     "similar_birds": "Puff-Throated Babbler is best separated from Jungle Babbler by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Jungle Babbler, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Puff-throated Babbler can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -4802,10 +4713,10 @@ birds = [
     },
     "similar_birds": "Purple Heron is best separated from Grey Heron by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Grey Heron, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Great Egret can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4833,10 +4744,10 @@ birds = [
     },
     "similar_birds": "Purple Sunbird is best separated from Crimson Sunbird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Crimson Sunbird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Purple-rumped Sunbird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4864,10 +4775,9 @@ birds = [
     },
     "similar_birds": "Purple-Rumped Sunbird is best separated from Purple Sunbird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Purple Sunbird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Crimson Sunbird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -4895,10 +4805,9 @@ birds = [
     },
     "similar_birds": "Rainbow Lorikeet is best separated from Scaly-breasted Lorikeet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Scaly-breasted Lorikeet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Musk Lorikeet can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4926,10 +4835,9 @@ birds = [
     },
     "similar_birds": "Red Wattlebird is best separated from Little Wattlebird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Little Wattlebird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Yellow Wattlebird can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4957,10 +4865,9 @@ birds = [
     },
     "similar_birds": "Red-browed Finch is best separated from Double-barred Finch by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Double-barred Finch, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Chestnut-breasted Mannikin can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -4988,10 +4895,9 @@ birds = [
     },
     "similar_birds": "Red-legged Partridge is best separated from Chukar by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Chukar, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey Partridge can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5019,10 +4925,10 @@ birds = [
     },
     "similar_birds": "Red-Naped Ibis is best separated from Black-headed Ibis by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black-headed Ibis, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-faced Ibis can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5050,10 +4956,10 @@ birds = [
     },
     "similar_birds": "Red-Vented Bulbul is best separated from Red-whiskered Bulbul by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Red-whiskered Bulbul, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-browed Bulbul can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5081,10 +4987,9 @@ birds = [
     },
     "similar_birds": "Red-Wattled Lapwing is best separated from Masked Lapwing by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Masked Lapwing, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Northern Lapwing can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -5112,10 +5017,10 @@ birds = [
     },
     "similar_birds": "Red-Whiskered Bulbul is best separated from Red-vented Bulbul by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Red-vented Bulbul, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-browed Bulbul can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5143,10 +5048,9 @@ birds = [
     },
     "similar_birds": "Red-winged Blackbird is best separated from Tricolored Blackbird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Tricolored Blackbird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Grackle can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5174,10 +5078,9 @@ birds = [
     },
     "similar_birds": "Rose-breasted Grosbeak is best separated from Black-headed Grosbeak by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black-headed Grosbeak, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Scarlet Tanager can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5205,10 +5108,10 @@ birds = [
     },
     "similar_birds": "Rose-Ringed Parakeet is best separated from Alexandrine Parakeet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Alexandrine Parakeet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Plum-headed Parakeet can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5236,10 +5139,10 @@ birds = [
     },
     "similar_birds": "Rufous Treepie is best separated from Grey Treepie by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Grey Treepie, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Myna can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5267,10 +5170,9 @@ birds = [
     },
     "similar_birds": "Sand Martin is best separated from Barn Swallow by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Barn Swallow, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. House Martin can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -5298,10 +5200,9 @@ birds = [
     },
     "similar_birds": "Sardinian Warbler is best separated from Dartford Warbler by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Dartford Warbler, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Whitethroat can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5329,10 +5230,10 @@ birds = [
     },
     "similar_birds": "Sarus Crane is best separated from Brolga by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Brolga, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Crane can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5360,10 +5261,9 @@ birds = [
     },
     "similar_birds": "Scaly-Breasted Munia is best separated from Indian Silverbill by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Indian Silverbill, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-rumped Munia can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -5391,10 +5291,9 @@ birds = [
     },
     "similar_birds": "Scarlet Tanager is best separated from Summer Tanager by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Summer Tanager, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Rose-breasted Grosbeak can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "Cornell Lab of Ornithology — All About Birds / eBird",
+        "Audubon — North American bird identification and natural history",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5417,15 +5316,15 @@ birds = [
         "clutch_size": "Usually 1-3 eggs",
         "call": "Generally quiet; produces croaks, hisses and other low calls around the nest",
         "lifespan": "Can live for 10-20 years",
-        "conservation_status": "🟡 Near Threatened (NT)",
+        "conservation_status": "🔴 Endangered(EN)",
         "where_to_find": "Africa: South Africa, Namibia, Botswana, Zimbabwe, Zambia, Kenya, Tanzania, Uganda, Ethiopia, Sudan and other sub-Saharan countries"
     },
     "similar_birds": "Secretarybird is best separated from Bateleur by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Bateleur, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Southern Ground Hornbill can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -5453,10 +5352,10 @@ birds = [
     },
     "similar_birds": "Shikra is best separated from Besra by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Besra, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Black-winged Kite can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5484,10 +5383,9 @@ birds = [
     },
     "similar_birds": "Silver Gull is best separated from Pacific Gull by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Pacific Gull, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Kelp Gull can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5515,10 +5413,9 @@ birds = [
     },
     "similar_birds": "Small Minivet is best separated from Long-tailed Minivet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Long-tailed Minivet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Scarlet Minivet can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -5546,10 +5443,9 @@ birds = [
     },
     "similar_birds": "Southern Cassowary is best separated from Emu by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Emu, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Northern Cassowary can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5577,10 +5473,10 @@ birds = [
     },
     "similar_birds": "Spotted Dove is best separated from Laughing Dove by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Laughing Dove, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Oriental Turtle Dove can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5608,10 +5504,10 @@ birds = [
     },
     "similar_birds": "Spotted Owlet is best separated from Jungle Owlet by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Jungle Owlet, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Owl can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — Birds of the World / eBird",
+        "IUCN Red List of Threatened Species",
+        "Raptors of the World / regional raptor references"
     ]
 },
 
@@ -5639,10 +5535,10 @@ birds = [
     },
     "similar_birds": "Stork-Billed Kingfisher is best separated from White-throated Kingfisher by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-throated Kingfisher, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Kingfisher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5670,10 +5566,9 @@ birds = [
     },
     "similar_birds": "Sulphur-crested Cockatoo is best separated from Galah by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Galah, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Corella can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird and life-history information",
+        "IUCN Red List of Threatened Species"
     ]
 },
 
@@ -5701,10 +5596,9 @@ birds = [
     },
     "similar_birds": "Superb Fairywren is best separated from Variegated Fairywren by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Variegated Fairywren, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Splendid Fairywren can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5732,10 +5626,9 @@ birds = [
     },
     "similar_birds": "Superb Lyrebird is best separated from Albert's Lyrebird by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Albert's Lyrebird, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Superb Fairywren can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5763,10 +5656,9 @@ birds = [
     },
     "similar_birds": "Tawny Frogmouth is best separated from Podargus species by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Podargus species, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Australian Owlet-nightjar can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5794,10 +5686,9 @@ birds = [
     },
     "similar_birds": "Wedge-tailed Eagle is best separated from White-bellied Sea-Eagle by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-bellied Sea-Eagle, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Little Eagle can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5825,10 +5716,9 @@ birds = [
     },
     "similar_birds": "Welcome Swallow is best separated from Fairy Martin by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Fairy Martin, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Tree Swallow can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5856,10 +5746,9 @@ birds = [
     },
     "similar_birds": "White Stork is best separated from Black Stork by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black Stork, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Woolly-necked Stork can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "British Trust for Ornithology — European bird ecology and monitoring",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5887,10 +5776,10 @@ birds = [
     },
     "similar_birds": "White-bellied Drongo is best separated from Black Drongo by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Black Drongo, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Ashy Drongo can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5918,10 +5807,9 @@ birds = [
     },
     "similar_birds": "White-Bellied Sea-Eagle is best separated from Wedge-tailed Eagle by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Wedge-tailed Eagle, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. White-tailed Sea-Eagle can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5949,10 +5837,10 @@ birds = [
     },
     "similar_birds": "White-Breasted Waterhen is best separated from White-breasted Waterhen by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-breasted Waterhen, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Common Moorhen can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -5980,10 +5868,10 @@ birds = [
     },
     "similar_birds": "White-Browed Fantail is best separated from White-throated Fantail by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-throated Fantail, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Willie Wagtail can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -6011,10 +5899,10 @@ birds = [
     },
     "similar_birds": "White-Browed Wagtail is best separated from White Wagtail by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White Wagtail, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Grey Wagtail can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -6042,10 +5930,10 @@ birds = [
     },
     "similar_birds": "White-Rumped Munia is best separated from Scaly-breasted Munia by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Scaly-breasted Munia, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Indian Silverbill can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -6073,10 +5961,10 @@ birds = [
     },
     "similar_birds": "White-Throated Kingfisher is best separated from Common Kingfisher by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Common Kingfisher, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Stork-billed Kingfisher can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -6104,10 +5992,9 @@ birds = [
     },
     "similar_birds": "Willie Wagtail is best separated from White-browed Fantail by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with White-browed Fantail, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Magpie-lark can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -6135,10 +6022,10 @@ birds = [
     },
     "similar_birds": "Woolly-Necked Stork is best separated from Asian Openbill by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Asian Openbill, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Painted Stork can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife International — species factsheet and distribution",
+        "Cornell Lab of Ornithology — eBird species accounts and identification",
+        "Bombay Natural History Society — Indian bird research and conservation",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
 
@@ -6166,51 +6053,44 @@ birds = [
     },
     "similar_birds": "Yellow-Footed Green Pigeon is best separated from Yellow-legged Green Pigeon by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Yellow-legged Green Pigeon, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Orange-breasted Green Pigeon can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
     "sources": [
-        "IOC World Bird List v15.2 — taxonomy and nomenclature",
-        "IUCN Red List of Threatened Species — global conservation status",
-        "BirdLife International — species distribution, ecology and conservation",
-        "eBird / Cornell Lab of Ornithology — identification and life-history information"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
+
 {
     "name": "Black Swan",
     "scientific": "Cygnus atratus",
-    "description": "The Black Swan is a large waterbird native to Australia and is easily recognised by its mostly black plumage, long neck and bright red bill. Despite its dark body, its broad wings show contrasting white flight feathers when the bird is flying. It is strongly associated with wetlands, lakes, rivers and sheltered coastal waters, where it feeds mainly on aquatic vegetation. Black Swans are social birds and are often seen in pairs or groups, particularly outside the breeding season.",
+    "description": "Black Swan is a large Australian waterbird distinguished by its mostly black plumage, broad white wing feathers and striking red bill. It occurs on lakes, rivers, wetlands, estuaries and sheltered coastal waters, where it feeds mainly by grazing on aquatic vegetation. It is strongly social and often forms large groups, especially where food and open water are plentiful. Unlike many large swans, it commonly feeds with its head and long neck submerged while swimming.",
     "image": "BlackSwan1.jpg",
     "quick_facts": {
         "family": "Anatidae",
         "size": "110–142 cm",
-        "weight": "3.7–9 kg",
+        "weight": "About 3.7–9 kg",
         "wingspan": "160–200 cm",
-        "diet": "Aquatic vegetation, algae and some small aquatic animals",
-        "habitat": "Freshwater and saltwater wetlands, lakes, rivers, lagoons and sheltered coastal waters",
-        "behaviour": "Usually social and often found in pairs or flocks; spends much of its time swimming and feeding in water",
+        "diet": "Mainly aquatic vegetation and algae; also some terrestrial vegetation and small aquatic animals",
+        "habitat": "Freshwater lakes, rivers, wetlands, estuaries, lagoons and sheltered coastal waters",
+        "behaviour": "Highly social; grazes while swimming and often gathers in large flocks; strong sustained flight",
         "activity": "Diurnal",
-        "nesting": "Builds a floating or waterside nest from aquatic vegetation, usually in shallow water or on small islands",
-        "breeding_season": "Variable; breeding can occur throughout much of the year depending on rainfall and water conditions",
-        "clutch_size": "5–9 eggs",
-        "call": "Deep, musical trumpeting and bugling calls; also produces softer calls between adults and young",
-        "lifespan": "Up to around 20 years in the wild",
+        "nesting": "Large nest of reeds, grasses and other vegetation, usually on or close to water",
+        "breeding_season": "Variable across Australia and strongly influenced by rainfall and water conditions; breeding can occur through much of the year in favourable conditions",
+        "clutch_size": "Usually 5–9 eggs",
+        "call": "Soft bugling and trumpeting calls; hissing and other calls also occur, especially around nesting birds",
+        "lifespan": "Can live for more than 20 years",
         "conservation_status": "🟢 Least Concern (LC)",
-        "where_to_find": "Australia: New South Wales, Queensland, South Australia, Tasmania, Victoria, Western Australia and the Northern Territory; New Zealand, where it has also become established",
+        "where_to_find": "Australia, including Tasmania; established populations also occur in New Zealand and some introduced localities"
     },
-    "similar_birds": "The Black Swan is unlikely to be confused with most other Australian waterbirds because of its predominantly black plumage and red bill. The closely related Black Swan differs from the White Swan species found elsewhere by having a dark body with white wing feathers rather than an entirely white plumage. The Australian Black Swan can also be distinguished from the black-and-white Magpie Goose by its much longer, curved neck and broader swan-like body. Unlike the Australian Wood Duck, it is substantially larger and has a much longer neck and predominantly black plumage. Its bright red bill and white wing panels are particularly useful identification features when the bird is seen at a distance.",
+    "similar_birds": "Black Swan is unlikely to be confused with most Australian waterbirds once its combination of black body, white flight feathers and red bill is visible. Australian Shelduck is much smaller and has a very different chestnut, white and black pattern, while Cape Barren Goose is bulkier and grey rather than predominantly black. The Black Swan's long neck, strongly aquatic behaviour and broad white wing panels in flight are particularly useful field marks. Its habit of gathering in large groups on open water also helps separate it from smaller dark waterfowl. Range and habitat provide useful supporting evidence when lighting makes plumage harder to judge.",
     "sources": [
-        "BirdLife International",
-        "IUCN Red List of Threatened Species",
-        "IOC World Bird List",
-        "Australian Museum",
-        "Birds of the World"
+        "BirdLife Australia — species profile and distribution",
+        "Australian Museum — Australian bird biology and identification",
+        "IUCN Red List of Threatened Species — conservation status"
     ]
 },
-   ]
-
-birds = sorted(birds, key = lambda bird: bird["name"].lower())
-
+]
 for bird in birds:
-
     page = template
-
     page = page.replace("{{NAME}}", bird["name"])
     page = page.replace("{{SCIENTIFIC}}", bird["scientific"])
     page = page.replace("{{DESCRIPTION}}", bird["description"])
