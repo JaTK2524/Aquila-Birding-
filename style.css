@@ -217,7 +217,7 @@ height:500px;
 }
 .featured_bird img{
 width:100%;
-height:300px;
+height:auto;
 }
 .right_column{
 display:flex;
