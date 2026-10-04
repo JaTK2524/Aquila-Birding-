@@ -5438,7 +5438,7 @@ birds = [
         "clutch_size": "About 4 large green eggs",
         "call": "Deep rumbling and booming sounds, often surprisingly difficult to locate",
         "lifespan": "Approximately 30 years in the wild",
-        "conservation_status": "🟡 Near Threatened (NT)",
+        "conservation_status": "🟠 Vulnerable (VU)",
         "where_to_find": "Australia: northern Queensland, especially the Wet Tropics and Cape York Peninsula; also New Guinea and eastern Indonesia"
     },
     "similar_birds": "Southern Cassowary is best separated from Emu by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Emu, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Northern Cassowary can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",

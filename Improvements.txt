@@ -1,0 +1,15 @@
+Each profile should have something like:
+
+IUCN Red List: species-specific URL, assessment year and category
+
+BirdLife DataZone: species-specific URL
+
+AviList: species-specific taxonomy record
+
+Cornell/eBird: species-specific account
+
+IOC: version/reference where applicable
+
+Rather than simply listing four organizations.
+
+
