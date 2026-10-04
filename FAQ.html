@@ -58,6 +58,12 @@ button.addEventListener("click", function() {
                         button.textContent = "🔊";
                          }
                            }); 
+                           document.addEventListener("keydown", function(event) {
+                            if(event.ctrlKey && event.key === "m") {
+                                event.preventDefault();
+                                button.click();
+                                   }
+                                    });                            
 </script>
 </body>
 </html>
