@@ -1,0 +1,63 @@
+<html>
+<head>
+<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+<link rel = "stylesheet" href = "style.css">
+<link rel = "icon" href = "Props/Aquila_Birding_Favicon.png">
+<title>FAQs | Aquila Birding</title>
+</head>
+<body>
+<div class = "audio_container">
+<audio id = "birdAudio" src = "Props/MyMusic.mp3" autoplay loop muted></audio>
+<button id = "muteButton" aria-label = "Click for audio!" class = "audio_button">🔇</button>
+</div>
+<header class = "header">
+<div class = "logo_button_box">
+<figure class = "logo_button">
+<a href = "index.html"><img src = "Props/Aquila_Birding_Favicon.png" alt = "Logo"></a>
+</figure>
+</div>
+<div style = "text-align:center;">
+<nav class = "navbar3"><a href = "index.html">Home</a> | <a href = "Games.html">Games</a> | <a href = "about-us.html">About Us</a></nav>
+</div>
+</header>
+<h1 class = "faq_title">FAQs</h1>
+<details>
+<summary>What is Aquila Birding?</summary>
+<p>Aquila Birding is a growing online birding project. We hope to one day document all the birds in the world.</p>
+</details>
+<details>
+<summary>If I spot an error in the bird-info pages, can I report it?</summary>
+<p>You can definitely report it, and we highly encourage it. Please help us improve our site so that everyone can enjoy a wonderful birding experience.</p>
+</details>
+<details>
+<summary>Where do the bird images come from?</summary>
+<p>We use images from Unsplash, Pexels and Pixabay. An Acknowledgment page to acknowledge the photographers who took all those images is being made and will soon be ready.</p>
+</details>
+<details>
+<summary>Can I suggest a bird to be added?</summary>
+<p>You can absolutely suggest a bird. Use the email found in the Contact Us page to do so.</p>
+</details>
+<details>
+<summary>Will user accounts be added soon?</summary>
+<p>Yes, user accounts will soon be added. Users will be able to have a personalized experience with Aquila Birding.</p>
+</details>
+<details>
+<summary>How often is Aquila Birding updated?</summary>
+<p>Aquila Birding is updated very frequently. If not daily, weekly.</p>
+</details>
+<script>
+const audio = document.getElementById("birdAudio");
+const button = document.getElementById("muteButton");
+
+button.addEventListener("click", function() {
+ audio.muted = !audio.muted;
+  if (audio.muted) {
+            button.textContent = "🔇";
+               } else {
+                        audio.play();
+                        button.textContent = "🔊";
+                         }
+                           }); 
+</script>
+</body>
+</html>

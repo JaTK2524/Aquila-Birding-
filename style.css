@@ -281,7 +281,65 @@ background-position:center;
 .bod_link{
 text-decoration:none;
 }
- @media (max-width: 600px) {
+details{
+line-height:100px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    position: relative;
+}
+
+.logo_button_box {
+    position: absolute;
+    left: 20px;
+    top: 0;
+}
+
+.navbar3 {
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+}
+.logo_button_box img {
+width:100px;
+height:auto;
+border:none;
+box-shadow:none;
+}
+    .audio_container{
+    display:flex;
+    }
+    .audio_button{
+    margin-bottom:20px;
+    margin-left:auto;
+    }
+    .faq_title{
+    text-decoration:underline;
+    margin-bottom:80px;
+    margin-top:150px;
+    text-align:left;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+   @media (max-width: 600px) {
+
+
 
     body {
         padding: 15px;
@@ -415,8 +473,12 @@ text-decoration:none;
         padding: 18px;
         box-sizing: border-box;
     }
+    .audio_container{
+    display:flex;
+    }
     .audio_button{
     margin-bottom:20px;
+    margin-left:auto;
     }
     .search_bar{
     margin-bottom:20px;
