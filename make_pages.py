@@ -3795,7 +3795,7 @@ birds = [
         "clutch_size": "Varies by species and region",
         "call": "Species-specific calls, including contact and territorial vocalisations",
         "lifespan": "Not given where a current, consistent figure could not be verified",
-        "conservation_status": "🟠 Vulnerable (VU)",
+        "conservation_status": "🟡 Near Threatened (NT)",
         "where_to_find": "See current species distribution in BirdLife International and the IUCN Red List."
     },
     "similar_birds": "Lesser Adjutant is best separated from Greater Adjutant by looking at the overall shape and the strongest plumage pattern rather than one small mark. Compared with Greater Adjutant, it has a different combination of colour, proportions and typical behaviour, which becomes clearer when the whole bird is visible. Asian Woollyneck can also resemble it in some settings, but differences in bill shape, tail length, wing pattern, posture or habitat can help narrow the identification. Calls and behaviour are useful supporting clues when plumage is difficult to see, especially for birds that spend much of their time in dense vegetation. Using several features together is more reliable than identifying the bird from a single characteristic.",
