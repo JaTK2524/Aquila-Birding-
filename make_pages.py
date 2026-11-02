@@ -11,7 +11,7 @@ birds = [
     "image": "AlexandrineParakeet1.jpg",
     "quick_facts": {
         "family": "Psittaculidae",
-        "size": "Species-specific size varies by sex and region",
+        "size": "Species-specific size varies by  sex and region",
         "weight": "Not given where a current, consistent figure could not be verified",
         "wingspan": "Not given where a current, consistent figure could not be verified",
         "diet": "seeds, fruits, flowers and grains",
