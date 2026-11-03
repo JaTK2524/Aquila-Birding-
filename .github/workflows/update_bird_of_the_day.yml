@@ -1,7 +1,8 @@
 name: Update Bird of the Day
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "55 11 * * *"
+    - cron: "35 12 * * *"
 
 permissions:
   contents: write
